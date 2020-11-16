@@ -36,27 +36,6 @@
     },
     {
       "desc": {
-        "cause": "Under Investigation",
-        "cluster": false,
-        "cust_a": {
-          "val": 195
-        },
-        "etr": "2020-11-16T17:00:00-0400",
-        "start": "2020-11-16T08:37:00-0400"
-      },
-      "geom": {
-        "a": [
-          "uhxhGnncnKeu@vrAqElFiAfAsN|LoJbHqKnDaJfBaeBkJcrAo|Hq@mPfAuo@naBycBh~Drt@nG|{H"
-        ],
-        "p": [
-          "qu|hGfm_nK"
-        ]
-      },
-      "id": "8",
-      "title": "Outage Information"
-    },
-    {
-      "desc": {
         "cause": "High Winds",
         "cluster": false,
         "cust_a": {
@@ -73,7 +52,7 @@
           "c~amGfcctK"
         ]
       },
-      "id": "12",
+      "id": "9",
       "title": "Outage Information"
     },
     {
@@ -92,7 +71,7 @@
           "}hfnGt`_mK"
         ]
       },
-      "id": "16",
+      "id": "13",
       "title": "Outage Information"
     }
   ],
