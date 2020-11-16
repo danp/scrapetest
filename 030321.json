@@ -1,0 +1,60 @@
+{
+  "file_data": [
+    {
+      "desc": {
+        "cluster": true,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "n_out": 2
+      },
+      "geom": {
+        "p": [
+          "wzlxGntmpJ"
+        ]
+      },
+      "id": "6-1",
+      "title": "Area Outage"
+    },
+    {
+      "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-11-16T11:00:00-0400",
+        "start": "2020-11-16T00:42:39-0400"
+      },
+      "geom": {
+        "p": [
+          "{{_yGzzjmJ"
+        ]
+      },
+      "id": "5",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
+        "cause": "Damage to Equipment",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-11-16T12:00:00-0400",
+        "start": "2020-11-16T06:39:00-0400"
+      },
+      "geom": {
+        "p": [
+          "}icyG|rduJ"
+        ]
+      },
+      "id": "8",
+      "title": "Outage Information"
+    }
+  ],
+  "file_title": "030321"
+}

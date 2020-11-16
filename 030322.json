@@ -1,0 +1,78 @@
+{
+  "file_data": [
+    {
+      "desc": {
+        "cluster": true,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "n_out": 2
+      },
+      "geom": {
+        "p": [
+          "iusqGre_kK"
+        ]
+      },
+      "id": "6-2",
+      "title": "Area Outage"
+    },
+    {
+      "desc": {
+        "cluster": true,
+        "cust_a": {
+          "val": 3780
+        },
+        "n_out": 2
+      },
+      "geom": {
+        "p": [
+          "cstoG`cdcK"
+        ]
+      },
+      "id": "6-3",
+      "title": "Area Outage"
+    },
+    {
+      "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-11-16T12:00:00-0400",
+        "start": "2020-11-16T07:16:00-0400"
+      },
+      "geom": {
+        "p": [
+          "}hfnGt`_mK"
+        ]
+      },
+      "id": "6",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "val": 13
+        },
+        "etr": "2020-11-16T12:00:00-0400",
+        "start": "2020-11-16T02:22:28-0400"
+      },
+      "geom": {
+        "a": [
+          "{y_mGdketKcl@pU{yAqdE`HeT|}BdcE"
+        ],
+        "p": [
+          "c~amGfcctK"
+        ]
+      },
+      "id": "9",
+      "title": "Outage Information"
+    }
+  ],
+  "file_title": "030322"
+}
