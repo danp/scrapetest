@@ -7,14 +7,14 @@
           "masked": true,
           "val": 4
         },
-        "n_out": 3
+        "n_out": 2
       },
       "geom": {
         "p": [
-          "eqroGhhgcK"
+          "ebroGrqgcK"
         ]
       },
-      "id": "6-1",
+      "id": "6-2",
       "title": "Area Outage"
     },
     {
@@ -33,7 +33,7 @@
           "wvhpGtre~J"
         ]
       },
-      "id": "3",
+      "id": "5",
       "title": "Outage Information"
     },
     {
@@ -73,7 +73,7 @@
           "c~amGfcctK"
         ]
       },
-      "id": "14",
+      "id": "13",
       "title": "Outage Information"
     }
   ],
