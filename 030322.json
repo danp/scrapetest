@@ -13,7 +13,7 @@
           "cwzqGxi~aK"
         ]
       },
-      "id": "6-2",
+      "id": "6-3",
       "title": "Area Outage"
     },
     {
@@ -29,27 +29,8 @@
           "}qfmGhvisK"
         ]
       },
-      "id": "6-3",
+      "id": "6-4",
       "title": "Area Outage"
-    },
-    {
-      "desc": {
-        "cause": "Under Investigation",
-        "cluster": false,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
-        "etr": "",
-        "start": "2020-11-16T10:41:00-0400"
-      },
-      "geom": {
-        "p": [
-          "wvhpGtre~J"
-        ]
-      },
-      "id": "10",
-      "title": "Outage Information"
     }
   ],
   "file_title": "030322"
