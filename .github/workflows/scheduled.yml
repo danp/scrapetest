@@ -15,7 +15,7 @@ jobs:
     - name: Check out repo
       uses: actions/checkout@v2
     - name: Run scrapers
-      run: ./scrape.sh
+      run: ./bin/scrape.sh
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
