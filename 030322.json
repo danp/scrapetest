@@ -4,13 +4,13 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 23
+          "val": 6
         },
-        "n_out": 4
+        "n_out": 5
       },
       "geom": {
         "p": [
-          "{j}pGtdjaK"
+          "kr{pGzxtbK"
         ]
       },
       "id": "6-1",
@@ -40,15 +40,15 @@
           "masked": true,
           "val": 4
         },
-        "etr": "2020-11-16T19:30:00-0400",
-        "start": "2020-11-16T13:27:38-0400"
+        "etr": "2020-11-16T16:00:00-0400",
+        "start": "2020-11-16T10:41:00-0400"
       },
       "geom": {
         "p": [
-          "ifmoGxehcK"
+          "wvhpGtre~J"
         ]
       },
-      "id": "9",
+      "id": "8",
       "title": "Outage Information"
     }
   ],
