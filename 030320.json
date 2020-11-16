@@ -14,7 +14,7 @@
           "_zerGbw~`K"
         ]
       },
-      "id": "6-1",
+      "id": "6-2",
       "title": "Area Outage"
     },
     {
@@ -49,26 +49,7 @@
           "_`gvGb{}_K"
         ]
       },
-      "id": "2",
-      "title": "Outage Information"
-    },
-    {
-      "desc": {
-        "cause": "Under Investigation",
-        "cluster": false,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
-        "etr": "2020-11-16T20:15:00-0400",
-        "start": "2020-11-16T16:22:29-0400"
-      },
-      "geom": {
-        "p": [
-          "icmtGhqoyJ"
-        ]
-      },
-      "id": "5",
+      "id": "3",
       "title": "Outage Information"
     }
   ],
