@@ -4,36 +4,35 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 5
+          "masked": true,
+          "val": 4
         },
-        "n_out": 4
+        "n_out": 2
       },
       "geom": {
         "p": [
-          "sxlwGdq{pJ"
+          "}kzxGl~enJ"
         ]
       },
-      "id": "6-4",
+      "id": "6-1",
       "title": "Area Outage"
     },
     {
       "desc": {
-        "cause": "Under Investigation",
-        "cluster": false,
+        "cluster": true,
         "cust_a": {
           "masked": true,
           "val": 4
         },
-        "etr": "2020-11-16T11:00:00-0400",
-        "start": "2020-11-16T00:42:39-0400"
+        "n_out": 3
       },
       "geom": {
         "p": [
-          "{{_yGzzjmJ"
+          "yl_wG|`oqJ"
         ]
       },
-      "id": "15",
-      "title": "Outage Information"
+      "id": "6-5",
+      "title": "Area Outage"
     },
     {
       "desc": {
@@ -51,7 +50,7 @@
           "}icyG|rduJ"
         ]
       },
-      "id": "16",
+      "id": "17",
       "title": "Outage Information"
     }
   ],
