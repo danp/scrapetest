@@ -8,7 +8,7 @@
           "masked": true,
           "val": 4
         },
-        "etr": "2020-11-16T22:45:00-0400",
+        "etr": "",
         "start": "2020-11-16T14:49:00-0400"
       },
       "geom": {
@@ -17,27 +17,6 @@
         ]
       },
       "id": "3",
-      "title": "Outage Information"
-    },
-    {
-      "desc": {
-        "cause": "Damage to Equipment",
-        "cluster": false,
-        "cust_a": {
-          "val": 47
-        },
-        "etr": "2020-11-17T00:30:00-0400",
-        "start": "2020-11-16T15:57:17-0400"
-      },
-      "geom": {
-        "a": [
-          "elrvGpxyfKoLzFfG{KfD~C"
-        ],
-        "p": [
-          "mrrvGnyyfK"
-        ]
-      },
-      "id": "4",
       "title": "Outage Information"
     }
   ],
