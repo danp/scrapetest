@@ -21,25 +21,6 @@
       },
       "id": "2",
       "title": "Outage Information"
-    },
-    {
-      "desc": {
-        "cause": "Under Investigation",
-        "cluster": false,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
-        "etr": "2020-11-17T12:30:00-0400",
-        "start": "2020-11-17T07:47:42-0400"
-      },
-      "geom": {
-        "p": [
-          "{ecrG`h|iK"
-        ]
-      },
-      "id": "5",
-      "title": "Outage Information"
     }
   ],
   "file_title": "030322"
