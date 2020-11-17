@@ -11,10 +11,27 @@
       },
       "geom": {
         "p": [
-          "scjoGd{xdK"
+          "ma|pGl|r|J"
         ]
       },
       "id": "6-1",
+      "title": "Area Outage"
+    },
+    {
+      "desc": {
+        "cluster": true,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "n_out": 2
+      },
+      "geom": {
+        "p": [
+          "scjoGd{xdK"
+        ]
+      },
+      "id": "6-2",
       "title": "Area Outage"
     }
   ],
