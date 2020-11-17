@@ -2,27 +2,6 @@
   "file_data": [
     {
       "desc": {
-        "cause": "Planned Maintenance",
-        "cluster": false,
-        "cust_a": {
-          "val": 8
-        },
-        "etr": "2020-11-17T11:45:00-0400",
-        "start": "2020-11-17T07:14:16-0400"
-      },
-      "geom": {
-        "a": [
-          "u{_lGxcljKmMtuCtCovE|FOv@t|@@rB"
-        ],
-        "p": [
-          "}b`lGrsljK"
-        ]
-      },
-      "id": "1",
-      "title": "Outage Information"
-    },
-    {
-      "desc": {
         "cause": "Under Investigation",
         "cluster": false,
         "cust_a": {
@@ -37,7 +16,7 @@
           "qlqnGpvpgK"
         ]
       },
-      "id": "2",
+      "id": "1",
       "title": "Outage Information"
     }
   ],
