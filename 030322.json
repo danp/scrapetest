@@ -8,6 +8,25 @@
           "masked": true,
           "val": 4
         },
+        "etr": "2020-11-18T04:00:00-0400",
+        "start": "2020-11-17T21:47:14-0400"
+      },
+      "geom": {
+        "p": [
+          "gbsoGfwdcK"
+        ]
+      },
+      "id": "1",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
         "etr": "2020-11-18T02:15:00-0400",
         "start": "2020-11-17T21:29:00-0400"
       },
@@ -16,7 +35,7 @@
           "kh`oGnr_jK"
         ]
       },
-      "id": "1",
+      "id": "2",
       "title": "Outage Information"
     }
   ],
