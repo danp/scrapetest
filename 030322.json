@@ -9,6 +9,25 @@
           "val": 4
         },
         "etr": "2020-11-19T16:45:00-0400",
+        "start": "2020-11-19T13:48:00-0400"
+      },
+      "geom": {
+        "p": [
+          "uxooGtozbK"
+        ]
+      },
+      "id": "1",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-11-19T16:45:00-0400",
         "start": "2020-11-19T12:09:00-0400"
       },
       "geom": {
@@ -16,7 +35,7 @@
           "mcdmGfsprK"
         ]
       },
-      "id": "2",
+      "id": "3",
       "title": "Outage Information"
     },
     {
@@ -35,7 +54,7 @@
           "}~`qGf_o|J"
         ]
       },
-      "id": "3",
+      "id": "4",
       "title": "Outage Information"
     }
   ],
