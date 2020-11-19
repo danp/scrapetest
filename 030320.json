@@ -2,24 +2,20 @@
   "file_data": [
     {
       "desc": {
-        "cause": "Patrolling Lines",
-        "cluster": false,
+        "cluster": true,
         "cust_a": {
-          "val": 388
+          "masked": true,
+          "val": 4
         },
-        "etr": "2020-11-19T05:30:00-0400",
-        "start": "2020-11-18T23:59:56-0400"
+        "n_out": 2
       },
       "geom": {
-        "a": [
-          "{fmvGfs{yJK`Kg]rC{EYqVsPy^_Xqf@os@}dL}oP_Tu}A_m@g`GzEoMtv@ufBf~NrfApn@tm_@"
-        ],
         "p": [
-          "aquvGpcgyJ"
+          "i{~rGjaz`K"
         ]
       },
-      "id": "1",
-      "title": "Outage Information"
+      "id": "6-2",
+      "title": "Area Outage"
     }
   ],
   "file_title": "030320"
