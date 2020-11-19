@@ -2,20 +2,22 @@
   "file_data": [
     {
       "desc": {
-        "cluster": true,
+        "cause": "Under Investigation",
+        "cluster": false,
         "cust_a": {
           "masked": true,
           "val": 4
         },
-        "n_out": 2
+        "etr": "2020-11-19T01:30:00-0400",
+        "start": "2020-11-18T21:38:00-0400"
       },
       "geom": {
         "p": [
-          "}piqG|pclK"
+          "oskqGt{`lK"
         ]
       },
-      "id": "6-1",
-      "title": "Area Outage"
+      "id": "1",
+      "title": "Outage Information"
     },
     {
       "desc": {
@@ -33,7 +35,7 @@
           "}~`qGf_o|J"
         ]
       },
-      "id": "3",
+      "id": "2",
       "title": "Outage Information"
     }
   ],
