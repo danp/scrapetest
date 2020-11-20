@@ -2,20 +2,41 @@
   "file_data": [
     {
       "desc": {
-        "cluster": true,
+        "cause": "Under Investigation",
+        "cluster": false,
         "cust_a": {
           "masked": true,
           "val": 4
         },
-        "n_out": 2
+        "etr": "2020-11-20T16:30:00-0400",
+        "start": "2020-11-20T12:05:00-0400"
       },
       "geom": {
         "p": [
-          "qnftGvmesJ"
+          "kvlxGdhqnJ"
         ]
       },
-      "id": "6-2",
-      "title": "Area Outage"
+      "id": "1",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-11-20T16:00:00-0400",
+        "start": "2020-11-20T10:20:00-0400"
+      },
+      "geom": {
+        "p": [
+          "stvtGfjbsJ"
+        ]
+      },
+      "id": "3",
+      "title": "Outage Information"
     }
   ],
   "file_title": "030321"
