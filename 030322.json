@@ -2,20 +2,18 @@
   "file_data": [
     {
       "desc": {
-        "cause": "Damage to Underground Equipment",
+        "cause": "Under Investigation",
         "cluster": false,
         "cust_a": {
-          "val": 93
+          "masked": true,
+          "val": 4
         },
-        "etr": "2020-11-20T23:00:00-0400",
-        "start": "2020-11-20T17:48:25-0400"
+        "etr": "2020-11-21T04:15:00-0400",
+        "start": "2020-11-20T23:36:09-0400"
       },
       "geom": {
-        "a": [
-          "u_woGhzfcKoBrGUsCdC_C"
-        ],
         "p": [
-          "gbwoGn~fcK"
+          "mtxqGd{djK"
         ]
       },
       "id": "1",
