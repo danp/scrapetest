@@ -2,19 +2,21 @@
   "file_data": [
     {
       "desc": {
-        "cluster": true,
+        "cause": "Planned Maintenance",
+        "cluster": false,
         "cust_a": {
-          "val": 29
+          "val": 22
         },
-        "n_out": 3
+        "etr": "2020-11-21T12:30:00-0400",
+        "start": "2020-11-21T08:28:42-0400"
       },
       "geom": {
         "p": [
-          "yexpGnvtaK"
+          "cxroGpf_cK"
         ]
       },
-      "id": "6-1",
-      "title": "Area Outage"
+      "id": "2",
+      "title": "Outage Information"
     }
   ],
   "file_title": "030322"
