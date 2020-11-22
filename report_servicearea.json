@@ -140,7 +140,7 @@
           {
             "area_name": "PARRSBORO",
             "cust_a": {
-              "val": 1154
+              "val": 0
             },
             "etr": ""
           },
@@ -238,7 +238,7 @@
           }
         ],
         "cust_a": {
-          "val": 4976
+          "val": 3822
         },
         "etr": ""
       }
