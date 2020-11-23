@@ -14,7 +14,7 @@
           "mvmuGdeyyJ"
         ]
       },
-      "id": "6-2",
+      "id": "6-3",
       "title": "Area Outage"
     },
     {
@@ -25,7 +25,7 @@
           "masked": true,
           "val": 4
         },
-        "etr": "2020-11-23T18:15:00-0400",
+        "etr": "2020-11-23T20:15:00-0400",
         "start": "2020-11-23T14:56:00-0400"
       },
       "geom": {
@@ -33,7 +33,7 @@
           "_inrG|{haK"
         ]
       },
-      "id": "12",
+      "id": "5",
       "title": "Outage Information"
     }
   ],
