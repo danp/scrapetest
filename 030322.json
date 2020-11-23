@@ -4,38 +4,6 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 211
-        },
-        "n_out": 9
-      },
-      "geom": {
-        "p": [
-          "}zzmGfr~kK"
-        ]
-      },
-      "id": "6-1",
-      "title": "Area Outage"
-    },
-    {
-      "desc": {
-        "cluster": true,
-        "cust_a": {
-          "val": 17
-        },
-        "n_out": 2
-      },
-      "geom": {
-        "p": [
-          "}r`rGbqfjK"
-        ]
-      },
-      "id": "6-2",
-      "title": "Area Outage"
-    },
-    {
-      "desc": {
-        "cluster": true,
-        "cust_a": {
           "val": 23
         },
         "n_out": 2
@@ -45,7 +13,7 @@
           "wqjoGpkafK"
         ]
       },
-      "id": "6-5",
+      "id": "6-3",
       "title": "Area Outage"
     },
     {
@@ -62,8 +30,67 @@
           "mqloGfpkcK"
         ]
       },
-      "id": "6-6",
+      "id": "6-4",
       "title": "Area Outage"
+    },
+    {
+      "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "val": 309
+        },
+        "etr": "2020-11-23T21:15:00-0400",
+        "start": "2020-11-23T17:42:23-0400"
+      },
+      "geom": {
+        "a": [
+          "ihnmGbtxkKy@j}@inC|~OovB`sDueAcu@unIuhLu_@w`BhnHu}Bn|EksAzqDfA"
+        ],
+        "p": [
+          "_cxmGd`clK"
+        ]
+      },
+      "id": "2",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-11-23T22:00:00-0400",
+        "start": "2020-11-23T17:22:00-0400"
+      },
+      "geom": {
+        "p": [
+          "k`yqG`tyjK"
+        ]
+      },
+      "id": "3",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-11-23T22:30:00-0400",
+        "start": "2020-11-23T17:58:00-0400"
+      },
+      "geom": {
+        "p": [
+          "epjkGlhgrK"
+        ]
+      },
+      "id": "4",
+      "title": "Outage Information"
     }
   ],
   "file_title": "030322"
