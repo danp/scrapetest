@@ -33,26 +33,7 @@
           "idlmG~fssK"
         ]
       },
-      "id": "3",
-      "title": "Outage Information"
-    },
-    {
-      "desc": {
-        "cause": "Under Investigation",
-        "cluster": false,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
-        "etr": "2020-11-23T14:45:00-0400",
-        "start": "2020-11-23T10:08:00-0400"
-      },
-      "geom": {
-        "p": [
-          "gqhhGzceoK"
-        ]
-      },
-      "id": "6",
+      "id": "1",
       "title": "Outage Information"
     }
   ],
