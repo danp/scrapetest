@@ -4,17 +4,39 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 43
+          "masked": true,
+          "val": 4
         },
         "n_out": 3
       },
       "geom": {
         "p": [
-          "sab{GtvloJ"
+          "ky{|Gra}oJ"
         ]
       },
       "id": "6-1",
       "title": "Area Outage"
+    },
+    {
+      "desc": {
+        "cause": "Planned Maintenance",
+        "cluster": false,
+        "cust_a": {
+          "val": 41
+        },
+        "etr": "2020-11-23T18:00:00-0400",
+        "start": "2020-11-23T09:32:44-0400"
+      },
+      "geom": {
+        "a": [
+          "mtmxGf~mnJ_AtHkCpE_KoClCkFp@s@fFcBbDJ"
+        ],
+        "p": [
+          "u|mxGzennJ"
+        ]
+      },
+      "id": "6",
+      "title": "Outage Information"
     }
   ],
   "file_title": "030321"
