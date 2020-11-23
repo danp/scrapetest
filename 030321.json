@@ -15,25 +15,6 @@
       },
       "id": "6-3",
       "title": "Area Outage"
-    },
-    {
-      "desc": {
-        "cause": "Under Investigation",
-        "cluster": false,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
-        "etr": "2020-11-23T18:45:00-0400",
-        "start": "2020-11-23T12:59:00-0400"
-      },
-      "geom": {
-        "p": [
-          "maq{GfwlsJ"
-        ]
-      },
-      "id": "8",
-      "title": "Outage Information"
     }
   ],
   "file_title": "030321"

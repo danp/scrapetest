@@ -7,34 +7,15 @@
           "masked": true,
           "val": 4
         },
-        "n_out": 3
+        "n_out": 2
       },
       "geom": {
         "p": [
-          "m~uoGbapcK"
+          "uhzoGzyscK"
         ]
       },
       "id": "6-1",
       "title": "Area Outage"
-    },
-    {
-      "desc": {
-        "cause": "Damage Causing Partial Power",
-        "cluster": false,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
-        "etr": "2020-11-23T16:15:00-0400",
-        "start": "2020-11-23T11:30:00-0400"
-      },
-      "geom": {
-        "p": [
-          "idlmG~fssK"
-        ]
-      },
-      "id": "9",
-      "title": "Outage Information"
     }
   ],
   "file_title": "030322"
