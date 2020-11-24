@@ -4,32 +4,32 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 596
+          "val": 1340
         },
-        "n_out": 6
+        "n_out": 4
       },
       "geom": {
         "p": [
-          "_fcyG~~jpJ"
+          "iiyuG`k}sJ"
         ]
       },
-      "id": "6-2",
+      "id": "6-1",
       "title": "Area Outage"
     },
     {
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 1339
+          "val": 595
         },
-        "n_out": 3
+        "n_out": 5
       },
       "geom": {
         "p": [
-          "eo_uGd|ltJ"
+          "_|hyGfm}oJ"
         ]
       },
-      "id": "6-3",
+      "id": "6-2",
       "title": "Area Outage"
     },
     {
