@@ -4,7 +4,7 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 177
+          "val": 187
         },
         "n_out": 5
       },
@@ -13,7 +13,7 @@
           "m{ooGpyucK"
         ]
       },
-      "id": "6-2",
+      "id": "6-3",
       "title": "Area Outage"
     }
   ],
