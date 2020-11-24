@@ -21,7 +21,7 @@
           {
             "area_name": "BADDECK",
             "cust_a": {
-              "val": 1683
+              "val": 1684
             },
             "etr": ""
           },
@@ -77,15 +77,15 @@
           {
             "area_name": "DARTMOUTH",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
           {
             "area_name": "DIGBY",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           },
@@ -246,7 +246,7 @@
           }
         ],
         "cust_a": {
-          "val": 1695
+          "val": 1697
         },
         "etr": ""
       }
