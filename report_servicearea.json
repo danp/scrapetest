@@ -78,14 +78,16 @@
           {
             "area_name": "DARTMOUTH",
             "cust_a": {
-              "val": 173
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
           {
             "area_name": "DIGBY",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -99,23 +101,22 @@
           {
             "area_name": "GUYSBOROUGH",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           },
           {
             "area_name": "HALIFAX",
             "cust_a": {
-              "val": 12
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
           {
             "area_name": "INGONISH",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           },
@@ -129,15 +130,15 @@
           {
             "area_name": "LIVERPOOL",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
           {
             "area_name": "MABOU",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           },
@@ -166,8 +167,7 @@
           {
             "area_name": "SACKVILLE",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           },
@@ -188,8 +188,7 @@
           {
             "area_name": "ST. MARGARET'S BAY",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           },
@@ -232,8 +231,7 @@
           {
             "area_name": "WINDSOR",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 29
             },
             "etr": ""
           },
@@ -246,7 +244,7 @@
           }
         ],
         "cust_a": {
-          "val": 196
+          "val": 38
         },
         "etr": ""
       }
