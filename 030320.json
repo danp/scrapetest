@@ -8,15 +8,34 @@
           "masked": true,
           "val": 4
         },
-        "etr": "2020-11-24T07:15:00-0400",
-        "start": "2020-11-24T02:11:51-0400"
+        "etr": "2020-11-24T14:30:00-0400",
+        "start": "2020-11-24T10:07:00-0400"
       },
       "geom": {
         "p": [
-          "ithsGpdbaK"
+          "{ftrGvyqfK"
         ]
       },
-      "id": "4",
+      "id": "2",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-11-24T13:15:00-0400",
+        "start": "2020-11-24T10:07:00-0400"
+      },
+      "geom": {
+        "p": [
+          "}tqtGlky}J"
+        ]
+      },
+      "id": "6",
       "title": "Outage Information"
     }
   ],
