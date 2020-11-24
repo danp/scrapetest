@@ -21,8 +21,7 @@
           {
             "area_name": "BADDECK",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 34
             },
             "etr": ""
           },
@@ -159,7 +158,7 @@
           {
             "area_name": "RIVER BOURGEOIS",
             "cust_a": {
-              "val": 32
+              "val": 0
             },
             "etr": ""
           },
@@ -244,7 +243,7 @@
           }
         ],
         "cust_a": {
-          "val": 3807
+          "val": 3808
         },
         "etr": ""
       }
