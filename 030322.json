@@ -18,19 +18,22 @@
     },
     {
       "desc": {
-        "cluster": true,
+        "cause": "Under Investigation",
+        "cluster": false,
         "cust_a": {
-          "val": 17
+          "masked": true,
+          "val": 4
         },
-        "n_out": 2
+        "etr": "2020-11-24T01:00:00-0400",
+        "start": "2020-11-23T17:22:00-0400"
       },
       "geom": {
         "p": [
-          "kowqGx~giK"
+          "k`yqG`tyjK"
         ]
       },
-      "id": "6-2",
-      "title": "Area Outage"
+      "id": "9",
+      "title": "Outage Information"
     },
     {
       "desc": {
