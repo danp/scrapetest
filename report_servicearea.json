@@ -21,7 +21,7 @@
           {
             "area_name": "BADDECK",
             "cust_a": {
-              "val": 1641
+              "val": 8
             },
             "etr": ""
           },
@@ -63,7 +63,8 @@
           {
             "area_name": "CLARE",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -247,7 +248,7 @@
           }
         ],
         "cust_a": {
-          "val": 1826
+          "val": 195
         },
         "etr": ""
       }
