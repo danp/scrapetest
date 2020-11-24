@@ -148,7 +148,7 @@
           {
             "area_name": "PORT HAWKESBURY",
             "cust_a": {
-              "val": 111
+              "val": 0
             },
             "etr": ""
           },
@@ -241,7 +241,7 @@
           }
         ],
         "cust_a": {
-          "val": 126
+          "val": 15
         },
         "etr": ""
       }
