@@ -28,8 +28,7 @@
           {
             "area_name": "BARRINGTON",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           },
@@ -149,7 +148,7 @@
           {
             "area_name": "PORT HAWKESBURY",
             "cust_a": {
-              "val": 88
+              "val": 111
             },
             "etr": ""
           },
@@ -241,7 +240,7 @@
           }
         ],
         "cust_a": {
-          "val": 131
+          "val": 152
         },
         "etr": ""
       }
