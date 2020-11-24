@@ -21,7 +21,7 @@
           {
             "area_name": "BADDECK",
             "cust_a": {
-              "val": 5
+              "val": 258
             },
             "etr": ""
           },
@@ -136,7 +136,7 @@
           {
             "area_name": "MABOU",
             "cust_a": {
-              "val": 6
+              "val": 1381
             },
             "etr": ""
           },
@@ -242,7 +242,7 @@
           }
         ],
         "cust_a": {
-          "val": 1362
+          "val": 2990
         },
         "etr": ""
       }
