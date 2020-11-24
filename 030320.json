@@ -4,16 +4,17 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 38
+          "masked": true,
+          "val": 4
         },
         "n_out": 4
       },
       "geom": {
         "p": [
-          "uxduGjvkzJ"
+          "exduGjolzJ"
         ]
       },
-      "id": "6-3",
+      "id": "6-1",
       "title": "Area Outage"
     }
   ],
