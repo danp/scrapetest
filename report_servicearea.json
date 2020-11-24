@@ -14,7 +14,7 @@
           {
             "area_name": "ANTIGONISH",
             "cust_a": {
-              "val": 10
+              "val": 36
             },
             "etr": ""
           },
@@ -149,7 +149,7 @@
           {
             "area_name": "PORT HAWKESBURY",
             "cust_a": {
-              "val": 87
+              "val": 88
             },
             "etr": ""
           },
@@ -241,7 +241,7 @@
           }
         ],
         "cust_a": {
-          "val": 103
+          "val": 129
         },
         "etr": ""
       }

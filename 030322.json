@@ -14,25 +14,27 @@
           "ggwoGv{tcK"
         ]
       },
-      "id": "6-1",
+      "id": "6-3",
       "title": "Area Outage"
     },
     {
       "desc": {
-        "cluster": true,
+        "cause": "Under Investigation",
+        "cluster": false,
         "cust_a": {
           "masked": true,
           "val": 4
         },
-        "n_out": 2
+        "etr": "2020-11-24T18:30:00-0400",
+        "start": "2020-11-24T14:31:48-0400"
       },
       "geom": {
         "p": [
-          "qvfqGlb}kK"
+          "}kkqGxbelK"
         ]
       },
-      "id": "6-4",
-      "title": "Area Outage"
+      "id": "8",
+      "title": "Outage Information"
     }
   ],
   "file_title": "030322"
