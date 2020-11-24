@@ -201,7 +201,7 @@
           {
             "area_name": "SYDNEY",
             "cust_a": {
-              "val": 6
+              "val": 134
             },
             "etr": ""
           },
@@ -215,8 +215,7 @@
           {
             "area_name": "TRURO",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 8
             },
             "etr": ""
           },
@@ -243,7 +242,7 @@
           }
         ],
         "cust_a": {
-          "val": 1812
+          "val": 1947
         },
         "etr": ""
       }
