@@ -4,13 +4,13 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 2977
+          "val": 1641
         },
-        "n_out": 16
+        "n_out": 5
       },
       "geom": {
         "p": [
-          "se}wGvavtJ"
+          "y_~xGjberJ"
         ]
       },
       "id": "6-1",
@@ -20,33 +20,32 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "masked": true,
-          "val": 4
+          "val": 1338
         },
         "n_out": 2
       },
       "geom": {
         "p": [
-          "{cazG`dxnJ"
+          "s`yuGlyytJ"
         ]
       },
-      "id": "6-3",
+      "id": "6-4",
       "title": "Area Outage"
     },
     {
       "desc": {
-        "cause": "Damage Causing Partial Power",
+        "cause": "Under Investigation",
         "cluster": false,
         "cust_a": {
           "masked": true,
           "val": 4
         },
-        "etr": "2020-11-24T06:30:00-0400",
-        "start": "2020-11-24T01:40:00-0400"
+        "etr": "2020-11-24T07:15:00-0400",
+        "start": "2020-11-24T02:50:32-0400"
       },
       "geom": {
         "p": [
-          "gllsGrassJ"
+          "i}dyGlpwmJ"
         ]
       },
       "id": "8",
