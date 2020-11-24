@@ -4,13 +4,13 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 21
+          "val": 462
         },
-        "n_out": 21
+        "n_out": 4
       },
       "geom": {
         "p": [
-          "kjzuGr~otJ"
+          "}fjyGlpdqJ"
         ]
       },
       "id": "6-1",
@@ -20,13 +20,13 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 6
+          "val": 1339
         },
         "n_out": 3
       },
       "geom": {
         "p": [
-          "_ynyGfijsJ"
+          "eo_uGd|ltJ"
         ]
       },
       "id": "6-2",
@@ -36,13 +36,14 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 727
+          "masked": true,
+          "val": 4
         },
         "n_out": 2
       },
       "geom": {
         "p": [
-          "gr_zG|{fpJ"
+          "uuvyG|abtJ"
         ]
       },
       "id": "6-3",
