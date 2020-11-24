@@ -7,6 +7,23 @@
           "masked": true,
           "val": 4
         },
+        "n_out": 2
+      },
+      "geom": {
+        "p": [
+          "meklG`vzrK"
+        ]
+      },
+      "id": "6-1",
+      "title": "Area Outage"
+    },
+    {
+      "desc": {
+        "cluster": true,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
         "n_out": 3
       },
       "geom": {
@@ -14,7 +31,7 @@
           "snkoGv`idK"
         ]
       },
-      "id": "6-3",
+      "id": "6-4",
       "title": "Area Outage"
     }
   ],
