@@ -193,14 +193,14 @@
           {
             "area_name": "STELLARTON",
             "cust_a": {
-              "val": 0
+              "val": 6
             },
             "etr": ""
           },
           {
             "area_name": "SYDNEY",
             "cust_a": {
-              "val": 21
+              "val": 0
             },
             "etr": ""
           },
@@ -242,7 +242,7 @@
           }
         ],
         "cust_a": {
-          "val": 34
+          "val": 19
         },
         "etr": ""
       }
