@@ -2,6 +2,25 @@
   "file_data": [
     {
       "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-11-25T18:15:00-0400",
+        "start": "2020-11-25T12:37:00-0400"
+      },
+      "geom": {
+        "p": [
+          "urx|GfoerJ"
+        ]
+      },
+      "id": "3",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
         "cause": "Planned Maintenance",
         "cluster": false,
         "cust_a": {
@@ -18,7 +37,7 @@
           "a`nxGbsmnJ"
         ]
       },
-      "id": "2",
+      "id": "5",
       "title": "Outage Information"
     }
   ],
