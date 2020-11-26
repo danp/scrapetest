@@ -4,14 +4,13 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "masked": true,
-          "val": 4
+          "val": 79
         },
         "n_out": 2
       },
       "geom": {
         "p": [
-          "unspGphebK"
+          "{nspG`hebK"
         ]
       },
       "id": "6-1",
