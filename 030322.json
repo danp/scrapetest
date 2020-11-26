@@ -5,6 +5,27 @@
         "cause": "Under Investigation",
         "cluster": false,
         "cust_a": {
+          "val": 54
+        },
+        "etr": "2020-11-26T11:45:00-0400",
+        "start": "2020-11-26T09:04:29-0400"
+      },
+      "geom": {
+        "a": [
+          "wlrmGbr{hKsD|BmIPwAyAe@eHrEcd@xJld@p@dF"
+        ],
+        "p": [
+          "{wrmG|d{hK"
+        ]
+      },
+      "id": "1",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
           "masked": true,
           "val": 4
         },
@@ -16,7 +37,7 @@
           "absoGbf`eK"
         ]
       },
-      "id": "1",
+      "id": "2",
       "title": "Outage Information"
     }
   ],
