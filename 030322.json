@@ -7,30 +7,14 @@
           "masked": true,
           "val": 4
         },
-        "n_out": 3
+        "n_out": 2
       },
       "geom": {
         "p": [
-          "a{eoG|trcK"
+          "kd~nGhq~cK"
         ]
       },
-      "id": "6-1",
-      "title": "Area Outage"
-    },
-    {
-      "desc": {
-        "cluster": true,
-        "cust_a": {
-          "val": 231
-        },
-        "n_out": 3
-      },
-      "geom": {
-        "p": [
-          "scjoGvergK"
-        ]
-      },
-      "id": "6-3",
+      "id": "6-2",
       "title": "Area Outage"
     }
   ],
