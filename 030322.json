@@ -2,6 +2,25 @@
   "file_data": [
     {
       "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-11-27T05:30:00-0400",
+        "start": "2020-11-27T02:13:26-0400"
+      },
+      "geom": {
+        "p": [
+          "aa~nGtp~cK"
+        ]
+      },
+      "id": "1",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
         "cause": "Patrolling Lines",
         "cluster": false,
         "cust_a": {
@@ -18,7 +37,7 @@
           "qxcoG`rrgK"
         ]
       },
-      "id": "1",
+      "id": "2",
       "title": "Outage Information"
     }
   ],
