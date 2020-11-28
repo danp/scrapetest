@@ -8,25 +8,6 @@
           "masked": true,
           "val": 4
         },
-        "etr": "2020-11-28T18:15:00-0400",
-        "start": "2020-11-28T13:53:00-0400"
-      },
-      "geom": {
-        "p": [
-          "czhpGdny_K"
-        ]
-      },
-      "id": "2",
-      "title": "Outage Information"
-    },
-    {
-      "desc": {
-        "cause": "Under Investigation",
-        "cluster": false,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
         "etr": "2020-11-28T19:30:00-0400",
         "start": "2020-11-28T14:56:00-0400"
       },
@@ -35,7 +16,7 @@
           "axfhGtquoK"
         ]
       },
-      "id": "3",
+      "id": "2",
       "title": "Outage Information"
     }
   ],
