@@ -2,6 +2,25 @@
   "file_data": [
     {
       "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-11-29T14:15:00-0400",
+        "start": "2020-11-29T08:42:51-0400"
+      },
+      "geom": {
+        "p": [
+          "karwGjuwqJ"
+        ]
+      },
+      "id": "1",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
         "cause": "Damage to Equipment",
         "cluster": false,
         "cust_a": {
@@ -16,7 +35,7 @@
           "iyfyGzmrnJ"
         ]
       },
-      "id": "1",
+      "id": "2",
       "title": "Outage Information"
     }
   ],
