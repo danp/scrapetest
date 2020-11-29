@@ -2,27 +2,6 @@
   "file_data": [
     {
       "desc": {
-        "cause": "Planned Maintenance",
-        "cluster": false,
-        "cust_a": {
-          "val": 693
-        },
-        "etr": "2020-11-29T12:15:00-0400",
-        "start": "2020-11-29T08:00:02-0400"
-      },
-      "geom": {
-        "a": [
-          "omiuG|nxgKw_MvgVe|I_cGkgE__GwIqO{_@cgAgh@saBaDgi@K}\\Cgi@?yH~BoPtiJ_zN`qUh~Q"
-        ],
-        "p": [
-          "ks{uGnnzgK"
-        ]
-      },
-      "id": "3",
-      "title": "Outage Information"
-    },
-    {
-      "desc": {
         "cause": "Damage to Equipment",
         "cluster": false,
         "cust_a": {
@@ -37,7 +16,7 @@
           "klmvGft|yJ"
         ]
       },
-      "id": "4",
+      "id": "3",
       "title": "Outage Information"
     }
   ],
