@@ -2,20 +2,43 @@
   "file_data": [
     {
       "desc": {
-        "cluster": true,
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "val": 576
+        },
+        "etr": "2020-11-30T11:30:00-0400",
+        "start": "2020-11-30T09:13:54-0400"
+      },
+      "geom": {
+        "a": [
+          "ijsoGt{epKsTz{@{Lbb@oE|MqO|H}{@zXsw@{g@kBsBiMePouJsni@pRw}A|Cp@`l@dt@jBvC~@xAdCpEjGfL|Rbd@jSte@zaB|~D|tDbwNxuCbkMzBbLvCrOFlX"
+        ],
+        "p": [
+          "wx{oGfiuoK"
+        ]
+      },
+      "id": "2",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
         "cust_a": {
           "masked": true,
           "val": 4
         },
-        "n_out": 2
+        "etr": "2020-11-30T14:00:00-0400",
+        "start": "2020-11-30T09:20:00-0400"
       },
       "geom": {
         "p": [
-          "gyuoGxu`pK"
+          "qffiGd{ymK"
         ]
       },
-      "id": "6-1",
-      "title": "Area Outage"
+      "id": "3",
+      "title": "Outage Information"
     }
   ],
   "file_title": "030322"
