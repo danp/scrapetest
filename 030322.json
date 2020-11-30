@@ -19,23 +19,21 @@
     },
     {
       "desc": {
-        "cause": "Planned Maintenance",
+        "cause": "Under Investigation",
         "cluster": false,
         "cust_a": {
-          "val": 576
+          "masked": true,
+          "val": 4
         },
-        "etr": "2020-11-30T11:30:00-0400",
-        "start": "2020-11-30T09:13:54-0400"
+        "etr": "2020-11-30T15:15:00-0400",
+        "start": "2020-11-30T10:41:00-0400"
       },
       "geom": {
-        "a": [
-          "ijsoGt{epKsTz{@{Lbb@oE|MqO|H}{@zXsw@{g@kBsBiMePouJsni@pRw}A|Cp@`l@dt@jBvC~@xAdCpEjGfL|Rbd@jSte@zaB|~D|tDbwNxuCbkMzBbLvCrOFlX"
-        ],
         "p": [
-          "wx{oGfiuoK"
+          "gm|qGbaugK"
         ]
       },
-      "id": "4",
+      "id": "1",
       "title": "Outage Information"
     },
     {
