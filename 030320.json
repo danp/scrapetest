@@ -39,27 +39,6 @@
       },
       "id": "3",
       "title": "Outage Information"
-    },
-    {
-      "desc": {
-        "cause": "High Winds",
-        "cluster": false,
-        "cust_a": {
-          "val": 13
-        },
-        "etr": "2020-12-01T17:15:00-0400",
-        "start": "2020-12-01T09:14:09-0400"
-      },
-      "geom": {
-        "a": [
-          "irhrGr~qjKuk@_yAuG{z@n_@tyAzDnO~Mti@"
-        ],
-        "p": [
-          "yrirGznojK"
-        ]
-      },
-      "id": "11",
-      "title": "Outage Information"
     }
   ],
   "file_title": "030320"
