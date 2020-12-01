@@ -7,7 +7,7 @@
           {
             "area_name": "AMHERST",
             "cust_a": {
-              "val": 15
+              "val": 77
             },
             "etr": ""
           },
@@ -71,7 +71,7 @@
           {
             "area_name": "COLDBROOK",
             "cust_a": {
-              "val": 14
+              "val": 98
             },
             "etr": ""
           },
@@ -183,7 +183,7 @@
           {
             "area_name": "ST. MARGARET'S BAY",
             "cust_a": {
-              "val": 19
+              "val": 0
             },
             "etr": ""
           },
@@ -212,7 +212,7 @@
           {
             "area_name": "TRURO",
             "cust_a": {
-              "val": 100
+              "val": 101
             },
             "etr": ""
           },
@@ -226,20 +226,22 @@
           {
             "area_name": "WINDSOR",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
           {
             "area_name": "YARMOUTH",
             "cust_a": {
-              "val": 31
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           }
         ],
         "cust_a": {
-          "val": 249
+          "val": 349
         },
         "etr": ""
       }
