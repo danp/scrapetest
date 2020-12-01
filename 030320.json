@@ -16,6 +16,23 @@
       },
       "id": "6-2",
       "title": "Area Outage"
+    },
+    {
+      "desc": {
+        "cluster": true,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "n_out": 2
+      },
+      "geom": {
+        "p": [
+          "e}lrGr`~hK"
+        ]
+      },
+      "id": "6-4",
+      "title": "Area Outage"
     }
   ],
   "file_title": "030320"
