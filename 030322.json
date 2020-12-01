@@ -4,13 +4,14 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 26
+          "masked": true,
+          "val": 4
         },
-        "n_out": 4
+        "n_out": 3
       },
       "geom": {
         "p": [
-          "ea~qGvjrgK"
+          "aocoGvcucK"
         ]
       },
       "id": "6-1",
@@ -20,14 +21,13 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "masked": true,
-          "val": 4
+          "val": 13
         },
         "n_out": 3
       },
       "geom": {
         "p": [
-          "yxboGn{pdK"
+          "e{zqGzslgK"
         ]
       },
       "id": "6-2",
@@ -65,7 +65,7 @@
           "_fmoG`tpnK"
         ]
       },
-      "id": "4",
+      "id": "2",
       "title": "Outage Information"
     }
   ],
