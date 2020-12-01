@@ -2,22 +2,6 @@
   "file_data": [
     {
       "desc": {
-        "cluster": true,
-        "cust_a": {
-          "val": 14
-        },
-        "n_out": 2
-      },
-      "geom": {
-        "p": [
-          "qrkrGdtahK"
-        ]
-      },
-      "id": "6-2",
-      "title": "Area Outage"
-    },
-    {
-      "desc": {
         "cause": "High Winds",
         "cluster": false,
         "cust_a": {
@@ -32,7 +16,7 @@
           "cubtGzwm|J"
         ]
       },
-      "id": "2",
+      "id": "4",
       "title": "Outage Information"
     },
     {
@@ -51,7 +35,7 @@
           "szyvGfxocK"
         ]
       },
-      "id": "9",
+      "id": "11",
       "title": "Outage Information"
     }
   ],
