@@ -36,7 +36,8 @@
           {
             "area_name": "BRIDGETOWN",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -71,7 +72,7 @@
           {
             "area_name": "COLDBROOK",
             "cust_a": {
-              "val": 55
+              "val": 4220
             },
             "etr": ""
           },
@@ -239,7 +240,7 @@
           }
         ],
         "cust_a": {
-          "val": 109
+          "val": 4275
         },
         "etr": ""
       }
