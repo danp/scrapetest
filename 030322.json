@@ -4,13 +4,13 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 15
+          "val": 24
         },
-        "n_out": 4
+        "n_out": 6
       },
       "geom": {
         "p": [
-          "y{wqGlozhK"
+          "cnxpGhzcgK"
         ]
       },
       "id": "6-1",
@@ -20,13 +20,13 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 20
+          "val": 41
         },
-        "n_out": 2
+        "n_out": 4
       },
       "geom": {
         "p": [
-          "ww}nGbuyeK"
+          "ovzkGd~}qK"
         ]
       },
       "id": "6-2",
@@ -34,35 +34,43 @@
     },
     {
       "desc": {
-        "cluster": true,
+        "cause": "High Winds",
+        "cluster": false,
         "cust_a": {
-          "val": 41
+          "val": 14
         },
-        "n_out": 5
+        "etr": "2020-12-01T16:30:00-0400",
+        "start": "2020-12-01T07:39:28-0400"
       },
       "geom": {
+        "a": [
+          "mj}nGpr}nKyDpImaCjvDiI`Jus@vPiUoh@nhEuiD`SqI"
+        ],
         "p": [
-          "mt~kGzndrK"
+          "ohaoGdwaoK"
         ]
       },
-      "id": "6-3",
-      "title": "Area Outage"
+      "id": "1",
+      "title": "Outage Information"
     },
     {
       "desc": {
-        "cluster": true,
+        "cause": "High Winds",
+        "cluster": false,
         "cust_a": {
-          "val": 46
+          "masked": true,
+          "val": 4
         },
-        "n_out": 2
+        "etr": "2020-12-01T12:00:00-0400",
+        "start": "2020-12-01T05:46:00-0400"
       },
       "geom": {
         "p": [
-          "of`pG|z|mK"
+          "gkiqG|}fkK"
         ]
       },
-      "id": "6-4",
-      "title": "Area Outage"
+      "id": "10",
+      "title": "Outage Information"
     }
   ],
   "file_title": "030322"
