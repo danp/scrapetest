@@ -36,7 +36,7 @@
           {
             "area_name": "BRIDGETOWN",
             "cust_a": {
-              "val": 5
+              "val": 6
             },
             "etr": ""
           },
@@ -184,7 +184,7 @@
           {
             "area_name": "ST. MARGARET'S BAY",
             "cust_a": {
-              "val": 0
+              "val": 19
             },
             "etr": ""
           },
@@ -241,7 +241,7 @@
           }
         ],
         "cust_a": {
-          "val": 712
+          "val": 733
         },
         "etr": ""
       }
