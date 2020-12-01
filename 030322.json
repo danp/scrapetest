@@ -4,13 +4,13 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 26
+          "val": 43
         },
-        "n_out": 8
+        "n_out": 6
       },
       "geom": {
         "p": [
-          "wlqpGxz~fK"
+          "y`ckGjzirK"
         ]
       },
       "id": "6-1",
@@ -20,38 +20,17 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 43
+          "val": 22
         },
-        "n_out": 6
+        "n_out": 4
       },
       "geom": {
         "p": [
-          "{_kkGbd_rK"
+          "e{loGxpdfK"
         ]
       },
       "id": "6-2",
       "title": "Area Outage"
-    },
-    {
-      "desc": {
-        "cause": "High Winds",
-        "cluster": false,
-        "cust_a": {
-          "val": 11
-        },
-        "etr": "2020-12-01T16:45:00-0400",
-        "start": "2020-12-01T08:31:20-0400"
-      },
-      "geom": {
-        "a": [
-          "_upnGbr{iKea@mWZuKpM`LvQ`W"
-        ],
-        "p": [
-          "ojqnGr}ziK"
-        ]
-      },
-      "id": "5",
-      "title": "Outage Information"
     },
     {
       "desc": {
@@ -71,7 +50,47 @@
           "ohaoGdwaoK"
         ]
       },
-      "id": "8",
+      "id": "1",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
+        "cause": "High Winds",
+        "cluster": false,
+        "cust_a": {
+          "val": 11
+        },
+        "etr": "2020-12-01T16:45:00-0400",
+        "start": "2020-12-01T08:31:20-0400"
+      },
+      "geom": {
+        "a": [
+          "_upnGbr{iKea@mWZuKpM`LvQ`W"
+        ],
+        "p": [
+          "ojqnGr}ziK"
+        ]
+      },
+      "id": "9",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
+        "cause": "High Winds",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-12-01T14:00:00-0400",
+        "start": "2020-12-01T07:54:21-0400"
+      },
+      "geom": {
+        "p": [
+          "__crGvqrhK"
+        ]
+      },
+      "id": "12",
       "title": "Outage Information"
     }
   ],
