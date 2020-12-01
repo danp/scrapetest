@@ -2,39 +2,21 @@
   "file_data": [
     {
       "desc": {
-        "cause": "Under Investigation",
+        "cause": "High Winds",
         "cluster": false,
         "cust_a": {
           "masked": true,
           "val": 4
         },
-        "etr": "2020-11-30T23:30:00-0400",
-        "start": "2020-11-30T17:42:00-0400"
+        "etr": "2020-12-01T10:30:00-0400",
+        "start": "2020-12-01T02:27:00-0400"
       },
       "geom": {
         "p": [
-          "a|rqGzhpkK"
+          "sxujGnpprK"
         ]
       },
       "id": "1",
-      "title": "Outage Information"
-    },
-    {
-      "desc": {
-        "cause": "Under Investigation",
-        "cluster": false,
-        "cust_a": {
-          "val": 5
-        },
-        "etr": "2020-11-30T22:30:00-0400",
-        "start": "2020-11-30T18:58:50-0400"
-      },
-      "geom": {
-        "p": [
-          "myooG|i`dK"
-        ]
-      },
-      "id": "2",
       "title": "Outage Information"
     }
   ],
