@@ -4,6 +4,22 @@
       "desc": {
         "cluster": true,
         "cust_a": {
+          "val": 25
+        },
+        "n_out": 7
+      },
+      "geom": {
+        "p": [
+          "u}ipGbbufK"
+        ]
+      },
+      "id": "6-1",
+      "title": "Area Outage"
+    },
+    {
+      "desc": {
+        "cluster": true,
+        "cust_a": {
           "val": 31
         },
         "n_out": 4
@@ -11,22 +27,6 @@
       "geom": {
         "p": [
           "yfmjGp}_rK"
-        ]
-      },
-      "id": "6-3",
-      "title": "Area Outage"
-    },
-    {
-      "desc": {
-        "cluster": true,
-        "cust_a": {
-          "val": 22
-        },
-        "n_out": 4
-      },
-      "geom": {
-        "p": [
-          "e{loGxpdfK"
         ]
       },
       "id": "6-4",
@@ -50,7 +50,7 @@
           "ohaoGdwaoK"
         ]
       },
-      "id": "5",
+      "id": "8",
       "title": "Outage Information"
     },
     {
@@ -71,7 +71,7 @@
           "ojqnGr}ziK"
         ]
       },
-      "id": "12",
+      "id": "15",
       "title": "Outage Information"
     }
   ],
