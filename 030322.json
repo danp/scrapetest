@@ -4,7 +4,8 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 152
+          "masked": true,
+          "val": 4
         },
         "n_out": 3
       },
@@ -32,7 +33,7 @@
           "{ockGllxqK"
         ]
       },
-      "id": "4",
+      "id": "5",
       "title": "Outage Information"
     }
   ],
