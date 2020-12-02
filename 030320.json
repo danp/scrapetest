@@ -7,53 +7,15 @@
           "masked": true,
           "val": 4
         },
-        "n_out": 2
+        "n_out": 4
       },
       "geom": {
         "p": [
-          "y}buG|hxxJ"
+          "m{ytGbzjzJ"
         ]
       },
-      "id": "6-2",
+      "id": "6-1",
       "title": "Area Outage"
-    },
-    {
-      "desc": {
-        "cause": "High Winds",
-        "cluster": false,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
-        "etr": "2020-12-01T23:00:00-0400",
-        "start": "2020-12-01T14:54:11-0400"
-      },
-      "geom": {
-        "p": [
-          "szyvGfxocK"
-        ]
-      },
-      "id": "8",
-      "title": "Outage Information"
-    },
-    {
-      "desc": {
-        "cause": "High Winds",
-        "cluster": false,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
-        "etr": "2020-12-01T22:15:00-0400",
-        "start": "2020-12-01T16:04:00-0400"
-      },
-      "geom": {
-        "p": [
-          "cubtGzwm|J"
-        ]
-      },
-      "id": "12",
-      "title": "Outage Information"
     }
   ],
   "file_title": "030320"
