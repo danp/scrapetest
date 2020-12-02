@@ -42,7 +42,7 @@
           {
             "area_name": "BRIDGEWATER",
             "cust_a": {
-              "val": 0
+              "val": 298
             },
             "etr": ""
           },
@@ -77,7 +77,8 @@
           {
             "area_name": "DARTMOUTH",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -133,7 +134,8 @@
           {
             "area_name": "MABOU",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -182,7 +184,7 @@
           {
             "area_name": "ST. MARGARET'S BAY",
             "cust_a": {
-              "val": 0
+              "val": 3972
             },
             "etr": ""
           },
@@ -224,7 +226,8 @@
           {
             "area_name": "WINDSOR",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -238,7 +241,7 @@
           }
         ],
         "cust_a": {
-          "val": 15
+          "val": 4288
         },
         "etr": ""
       }
