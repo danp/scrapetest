@@ -2,19 +2,24 @@
   "file_data": [
     {
       "desc": {
-        "cluster": true,
+        "cause": "Trees on Line",
+        "cluster": false,
         "cust_a": {
-          "val": 357
+          "val": 356
         },
-        "n_out": 2
+        "etr": "2020-12-02T05:00:00-0400",
+        "start": "2020-12-02T00:19:40-0400"
       },
       "geom": {
+        "a": [
+          "wheoGdghjKqwEzdGmmMbqDm_DsnAo|@gmAio@yfKr^kPzTcAn~C_GnaUr~Av\\ph@"
+        ],
         "p": [
-          "sezpGrnnjK"
+          "mgvoGz{kjK"
         ]
       },
-      "id": "6-1",
-      "title": "Area Outage"
+      "id": "1",
+      "title": "Outage Information"
     },
     {
       "desc": {
