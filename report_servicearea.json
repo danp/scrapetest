@@ -105,7 +105,7 @@
           {
             "area_name": "HALIFAX",
             "cust_a": {
-              "val": 40
+              "val": 39
             },
             "etr": ""
           },
@@ -141,8 +141,7 @@
           {
             "area_name": "PARRSBORO",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           },
@@ -198,7 +197,7 @@
           {
             "area_name": "SYDNEY",
             "cust_a": {
-              "val": 25
+              "val": 22
             },
             "etr": ""
           },
@@ -240,7 +239,7 @@
           }
         ],
         "cust_a": {
-          "val": 71
+          "val": 64
         },
         "etr": ""
       }
