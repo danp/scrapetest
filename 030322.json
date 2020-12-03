@@ -4,13 +4,13 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 10
+          "val": 11
         },
-        "n_out": 2
+        "n_out": 3
       },
       "geom": {
         "p": [
-          "mkrmGvlfhK"
+          "iqcnGzbpgK"
         ]
       },
       "id": "6-1",
