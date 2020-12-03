@@ -11,7 +11,7 @@
       },
       "geom": {
         "p": [
-          "yn~nGxneeK"
+          "mxhnG~btoK"
         ]
       },
       "id": "6-1",
@@ -19,20 +19,41 @@
     },
     {
       "desc": {
-        "cluster": true,
+        "cause": "Damage Causing Partial Power",
+        "cluster": false,
         "cust_a": {
           "masked": true,
           "val": 4
         },
-        "n_out": 2
+        "etr": "2020-12-03T23:30:00-0400",
+        "start": "2020-12-03T18:43:00-0400"
       },
       "geom": {
         "p": [
-          "mxhnG~btoK"
+          "qnghGvuioK"
         ]
       },
-      "id": "6-2",
-      "title": "Area Outage"
+      "id": "1",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-12-03T21:15:00-0400",
+        "start": "2020-12-03T17:48:00-0400"
+      },
+      "geom": {
+        "p": [
+          "q`wnGnngdK"
+        ]
+      },
+      "id": "2",
+      "title": "Outage Information"
     },
     {
       "desc": {
