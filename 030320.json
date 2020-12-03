@@ -2,6 +2,23 @@
   "file_data": [
     {
       "desc": {
+        "cluster": true,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "n_out": 2
+      },
+      "geom": {
+        "p": [
+          "aclrGnvdkK"
+        ]
+      },
+      "id": "6-2",
+      "title": "Area Outage"
+    },
+    {
+      "desc": {
         "cause": "Damage Causing Partial Power",
         "cluster": false,
         "cust_a": {
@@ -16,7 +33,7 @@
           "sibuGnqm}J"
         ]
       },
-      "id": "6",
+      "id": "7",
       "title": "Outage Information"
     }
   ],
