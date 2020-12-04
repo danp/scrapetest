@@ -2,6 +2,25 @@
   "file_data": [
     {
       "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-12-04T23:30:00-0400",
+        "start": "2020-12-04T14:17:00-0400"
+      },
+      "geom": {
+        "p": [
+          "{tkkGp``qK"
+        ]
+      },
+      "id": "1",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
         "cause": "Trees on Line",
         "cluster": false,
         "cust_a": {
