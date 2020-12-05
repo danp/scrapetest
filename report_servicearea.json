@@ -189,7 +189,7 @@
           {
             "area_name": "STELLARTON",
             "cust_a": {
-              "val": 1026
+              "val": 0
             },
             "etr": ""
           },
@@ -238,7 +238,8 @@
           }
         ],
         "cust_a": {
-          "val": 1027
+          "masked": true,
+          "val": 4
         },
         "etr": ""
       }
