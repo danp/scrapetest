@@ -78,7 +78,8 @@
           {
             "area_name": "DARTMOUTH",
             "cust_a": {
-              "val": 205
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -106,7 +107,7 @@
           {
             "area_name": "HALIFAX",
             "cust_a": {
-              "val": 2855
+              "val": 2856
             },
             "etr": ""
           },
@@ -226,7 +227,7 @@
           {
             "area_name": "WINDSOR",
             "cust_a": {
-              "val": 1075
+              "val": 0
             },
             "etr": ""
           },
@@ -240,7 +241,7 @@
           }
         ],
         "cust_a": {
-          "val": 5382
+          "val": 4105
         },
         "etr": ""
       }
