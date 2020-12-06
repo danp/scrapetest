@@ -13,29 +13,8 @@
           "}qbtG|fk~J"
         ]
       },
-      "id": "6-4",
+      "id": "6-6",
       "title": "Area Outage"
-    },
-    {
-      "desc": {
-        "cause": "Patrolling Lines",
-        "cluster": false,
-        "cust_a": {
-          "val": 500
-        },
-        "etr": "2020-12-06T10:30:00-0400",
-        "start": "2020-12-06T04:21:11-0400"
-      },
-      "geom": {
-        "a": [
-          "mvesG~zibK}vDb}t@eiAxu@u~Bg{Csw@o}a@xAmvEvA}M|J{Wvd@ov@fIsLzw@}c@jcHqtC~UmGtCbL"
-        ],
-        "p": [
-          "wlmsGddccK"
-        ]
-      },
-      "id": "19",
-      "title": "Outage Information"
     },
     {
       "desc": {
@@ -55,7 +34,7 @@
           "kksvGfn_gK"
         ]
       },
-      "id": "21",
+      "id": "24",
       "title": "Outage Information"
     }
   ],
