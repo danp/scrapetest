@@ -78,7 +78,7 @@
           {
             "area_name": "DARTMOUTH",
             "cust_a": {
-              "val": 1490
+              "val": 1694
             },
             "etr": ""
           },
@@ -127,7 +127,7 @@
           {
             "area_name": "LIVERPOOL",
             "cust_a": {
-              "val": 75
+              "val": 76
             },
             "etr": ""
           },
@@ -162,7 +162,8 @@
           {
             "area_name": "SACKVILLE",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -238,7 +239,7 @@
           }
         ],
         "cust_a": {
-          "val": 3306
+          "val": 3515
         },
         "etr": ""
       }
