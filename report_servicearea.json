@@ -42,7 +42,7 @@
           {
             "area_name": "BRIDGEWATER",
             "cust_a": {
-              "val": 657
+              "val": 658
             },
             "etr": ""
           },
@@ -161,8 +161,7 @@
           {
             "area_name": "SACKVILLE",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           },
@@ -238,7 +237,7 @@
           }
         ],
         "cust_a": {
-          "val": 1246
+          "val": 1244
         },
         "etr": ""
       }
