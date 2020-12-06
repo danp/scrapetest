@@ -4,17 +4,16 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "masked": true,
-          "val": 4
+          "val": 5
         },
-        "n_out": 3
+        "n_out": 4
       },
       "geom": {
         "p": [
-          "_vrxGdhgnJ"
+          "svrxGrhinJ"
         ]
       },
-      "id": "6-2",
+      "id": "6-1",
       "title": "Area Outage"
     },
     {
@@ -33,7 +32,7 @@
           "ahkwGvfvqJ"
         ]
       },
-      "id": "14",
+      "id": "15",
       "title": "Outage Information"
     }
   ],
