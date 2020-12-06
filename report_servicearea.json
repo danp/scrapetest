@@ -28,7 +28,8 @@
           {
             "area_name": "BARRINGTON",
             "cust_a": {
-              "val": 18
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -42,7 +43,7 @@
           {
             "area_name": "BRIDGEWATER",
             "cust_a": {
-              "val": 660
+              "val": 6
             },
             "etr": ""
           },
@@ -77,8 +78,7 @@
           {
             "area_name": "DARTMOUTH",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           },
@@ -99,7 +99,8 @@
           {
             "area_name": "GUYSBOROUGH",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -127,7 +128,7 @@
           {
             "area_name": "LIVERPOOL",
             "cust_a": {
-              "val": 77
+              "val": 217
             },
             "etr": ""
           },
@@ -213,7 +214,7 @@
           {
             "area_name": "TRURO",
             "cust_a": {
-              "val": 500
+              "val": 501
             },
             "etr": ""
           },
@@ -240,7 +241,7 @@
           }
         ],
         "cust_a": {
-          "val": 1274
+          "val": 744
         },
         "etr": ""
       }
