@@ -2,24 +2,19 @@
   "file_data": [
     {
       "desc": {
-        "cause": "Vehicle Accident",
-        "cluster": false,
+        "cluster": true,
         "cust_a": {
-          "val": 484
+          "val": 485
         },
-        "etr": "2020-12-06T02:00:00-0400",
-        "start": "2020-12-05T19:49:48-0400"
+        "n_out": 2
       },
       "geom": {
-        "a": [
-          "ua_uG`tz}Je{A}DeBoO~@mN|Wi{AlcAdaC"
-        ],
         "p": [
-          "uy`uGzey}J"
+          "c{`uGdxw}J"
         ]
       },
-      "id": "1",
-      "title": "Outage Information"
+      "id": "6-1",
+      "title": "Area Outage"
     }
   ],
   "file_title": "030320"
