@@ -42,7 +42,7 @@
           {
             "area_name": "BRIDGEWATER",
             "cust_a": {
-              "val": 659
+              "val": 660
             },
             "etr": ""
           },
@@ -240,7 +240,7 @@
           }
         ],
         "cust_a": {
-          "val": 1273
+          "val": 1274
         },
         "etr": ""
       }

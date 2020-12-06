@@ -4,13 +4,13 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 728
+          "val": 737
         },
-        "n_out": 8
+        "n_out": 11
       },
       "geom": {
         "p": [
-          "mtjmGbwqiK"
+          "ypmmGlk~iK"
         ]
       },
       "id": "6-1",
@@ -34,22 +34,6 @@
     },
     {
       "desc": {
-        "cluster": true,
-        "cust_a": {
-          "val": 8
-        },
-        "n_out": 2
-      },
-      "geom": {
-        "p": [
-          "scemGp{ykK"
-        ]
-      },
-      "id": "6-3",
-      "title": "Area Outage"
-    },
-    {
-      "desc": {
         "cause": "High Winds",
         "cluster": false,
         "cust_a": {
@@ -64,7 +48,7 @@
           "uk{oGfs|bK"
         ]
       },
-      "id": "4",
+      "id": "7",
       "title": "Outage Information"
     }
   ],
