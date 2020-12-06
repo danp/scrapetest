@@ -126,7 +126,7 @@
           {
             "area_name": "LIVERPOOL",
             "cust_a": {
-              "val": 79
+              "val": 77
             },
             "etr": ""
           },
@@ -238,7 +238,7 @@
           }
         ],
         "cust_a": {
-          "val": 1248
+          "val": 1246
         },
         "etr": ""
       }
