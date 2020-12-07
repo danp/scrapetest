@@ -7,6 +7,23 @@
           "masked": true,
           "val": 4
         },
+        "n_out": 2
+      },
+      "geom": {
+        "p": [
+          "kenpGh~eaK"
+        ]
+      },
+      "id": "6-1",
+      "title": "Area Outage"
+    },
+    {
+      "desc": {
+        "cluster": true,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
         "n_out": 3
       },
       "geom": {
@@ -14,7 +31,7 @@
           "qvnoGb|ehK"
         ]
       },
-      "id": "6-1",
+      "id": "6-2",
       "title": "Area Outage"
     },
     {
@@ -30,27 +47,8 @@
           "_mujG~_nqK"
         ]
       },
-      "id": "6-2",
+      "id": "6-3",
       "title": "Area Outage"
-    },
-    {
-      "desc": {
-        "cause": "Under Investigation",
-        "cluster": false,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
-        "etr": "2020-12-07T11:30:00-0400",
-        "start": "2020-12-07T08:00:00-0400"
-      },
-      "geom": {
-        "p": [
-          "iceoG~kgbK"
-        ]
-      },
-      "id": "5",
-      "title": "Outage Information"
     }
   ],
   "file_title": "030322"
