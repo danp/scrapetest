@@ -16,7 +16,7 @@
           "ibfqGrubmK"
         ]
       },
-      "id": "2",
+      "id": "4",
       "title": "Outage Information"
     },
     {
@@ -33,25 +33,6 @@
       "geom": {
         "p": [
           "mujpGdv{cK"
-        ]
-      },
-      "id": "4",
-      "title": "Outage Information"
-    },
-    {
-      "desc": {
-        "cause": "Under Investigation",
-        "cluster": false,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
-        "etr": "2020-12-07T16:15:00-0400",
-        "start": "2020-12-07T11:39:09-0400"
-      },
-      "geom": {
-        "p": [
-          "gsimG|_grK"
         ]
       },
       "id": "5",
@@ -73,7 +54,7 @@
           "{`gmG`h{iK"
         ]
       },
-      "id": "7",
+      "id": "6",
       "title": "Outage Information"
     }
   ],
