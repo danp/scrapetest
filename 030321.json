@@ -35,25 +35,6 @@
       },
       "id": "5",
       "title": "Outage Information"
-    },
-    {
-      "desc": {
-        "cause": "Under Investigation",
-        "cluster": false,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
-        "etr": "2020-12-07T16:00:00-0400",
-        "start": "2020-12-07T10:26:00-0400"
-      },
-      "geom": {
-        "p": [
-          "iresGtgstJ"
-        ]
-      },
-      "id": "7",
-      "title": "Outage Information"
     }
   ],
   "file_title": "030321"
