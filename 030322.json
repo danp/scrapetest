@@ -2,22 +2,19 @@
   "file_data": [
     {
       "desc": {
-        "cause": "Under Investigation",
-        "cluster": false,
+        "cluster": true,
         "cust_a": {
-          "masked": true,
-          "val": 4
+          "val": 542
         },
-        "etr": "",
-        "start": "2020-12-07T12:18:42-0400"
+        "n_out": 2
       },
       "geom": {
         "p": [
-          "ibfqGrubmK"
+          "{abqGvdwlK"
         ]
       },
-      "id": "2",
-      "title": "Outage Information"
+      "id": "6-1",
+      "title": "Area Outage"
     }
   ],
   "file_title": "030322"
