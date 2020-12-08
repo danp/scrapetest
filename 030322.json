@@ -16,6 +16,46 @@
       },
       "id": "6-1",
       "title": "Area Outage"
+    },
+    {
+      "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-12-08T17:00:00-0400",
+        "start": "2020-12-08T12:27:33-0400"
+      },
+      "geom": {
+        "p": [
+          "_}aqGnhzmK"
+        ]
+      },
+      "id": "1",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
+        "cause": "Planned Maintenance",
+        "cluster": false,
+        "cust_a": {
+          "val": 170
+        },
+        "etr": "2020-12-08T17:00:00-0400",
+        "start": "2020-12-08T12:05:05-0400"
+      },
+      "geom": {
+        "a": [
+          "cifnGlidfKg[zlNwH|JkF`Fcv@xn@cdAis@aO_[{BqH}@aDyEu[a@aIjfE_jL"
+        ],
+        "p": [
+          "u}hnGhaofK"
+        ]
+      },
+      "id": "3",
+      "title": "Outage Information"
     }
   ],
   "file_title": "030322"
