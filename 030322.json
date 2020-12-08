@@ -2,20 +2,40 @@
   "file_data": [
     {
       "desc": {
-        "cause": "Planned Maintenance",
+        "cause": "Under Investigation",
         "cluster": false,
         "cust_a": {
-          "val": 11
+          "masked": true,
+          "val": 4
         },
-        "etr": "2020-12-08T16:00:00-0400",
-        "start": "2020-12-08T14:46:38-0400"
+        "etr": "2020-12-08T21:15:00-0400",
+        "start": "2020-12-08T17:18:00-0400"
       },
       "geom": {
         "p": [
-          "}h{mG`_}hK"
+          "e_vnGn`pgK"
         ]
       },
       "id": "1",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-12-08T20:30:00-0400",
+        "start": "2020-12-08T17:13:00-0400"
+      },
+      "geom": {
+        "p": [
+          "m|xoGd~ybK"
+        ]
+      },
+      "id": "2",
       "title": "Outage Information"
     }
   ],
