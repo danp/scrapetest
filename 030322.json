@@ -2,43 +2,19 @@
   "file_data": [
     {
       "desc": {
-        "cause": "Trees on Line",
-        "cluster": false,
+        "cluster": true,
         "cust_a": {
-          "masked": true,
-          "val": 4
+          "val": 11
         },
-        "etr": "2020-12-08T21:15:00-0400",
-        "start": "2020-12-08T18:39:40-0400"
-      },
-      "geom": {
-        "a": [
-          "itfnGdi_kKaK~BvEiGhDhC"
-        ],
-        "p": [
-          "azfnG`i_kK"
-        ]
-      },
-      "id": "1",
-      "title": "Outage Information"
-    },
-    {
-      "desc": {
-        "cause": "Under Investigation",
-        "cluster": false,
-        "cust_a": {
-          "val": 10
-        },
-        "etr": "2020-12-08T21:15:00-0400",
-        "start": "2020-12-08T17:18:00-0400"
+        "n_out": 2
       },
       "geom": {
         "p": [
-          "g}unGbdpgK"
+          "ycwnGro_fK"
         ]
       },
-      "id": "2",
-      "title": "Outage Information"
+      "id": "6-1",
+      "title": "Area Outage"
     }
   ],
   "file_title": "030322"
