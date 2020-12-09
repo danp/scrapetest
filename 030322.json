@@ -16,7 +16,7 @@
           "oyaqG`qzmK"
         ]
       },
-      "id": "3",
+      "id": "2",
       "title": "Outage Information"
     },
     {
@@ -27,7 +27,7 @@
           "masked": true,
           "val": 4
         },
-        "etr": "2020-12-09T16:00:00-0400",
+        "etr": "",
         "start": "2020-12-09T05:29:18-0400"
       },
       "geom": {
@@ -35,7 +35,7 @@
           "azgoGlklbK"
         ]
       },
-      "id": "5",
+      "id": "4",
       "title": "Outage Information"
     }
   ],
