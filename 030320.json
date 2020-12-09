@@ -2,25 +2,6 @@
   "file_data": [
     {
       "desc": {
-        "cause": "Under Investigation",
-        "cluster": false,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
-        "etr": "2020-12-09T00:45:00-0400",
-        "start": "2020-12-08T20:53:00-0400"
-      },
-      "geom": {
-        "p": [
-          "kciuGzjx|J"
-        ]
-      },
-      "id": "2",
-      "title": "Outage Information"
-    },
-    {
-      "desc": {
         "cause": "Damage Causing Partial Power",
         "cluster": false,
         "cust_a": {
@@ -35,7 +16,7 @@
           "cpkuGbb}bK"
         ]
       },
-      "id": "4",
+      "id": "2",
       "title": "Outage Information"
     }
   ],
