@@ -2,21 +2,23 @@
   "file_data": [
     {
       "desc": {
-        "cause": "Damage Causing Partial Power",
+        "cause": "Planned Maintenance",
         "cluster": false,
         "cust_a": {
-          "masked": true,
-          "val": 4
+          "val": 7
         },
-        "etr": "",
-        "start": "2020-12-08T14:39:00-0400"
+        "etr": "2020-12-09T12:00:00-0400",
+        "start": "2020-12-09T08:48:11-0400"
       },
       "geom": {
+        "a": [
+          "{n~uG~hk}JsSwa@RsM|LhLrCpJl@nW"
+        ],
         "p": [
-          "cpkuGbb}bK"
+          "ux~uGrmj}J"
         ]
       },
-      "id": "2",
+      "id": "1",
       "title": "Outage Information"
     }
   ],
