@@ -7,8 +7,7 @@
           {
             "area_name": "AMHERST",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           },
@@ -43,7 +42,7 @@
           {
             "area_name": "BRIDGEWATER",
             "cust_a": {
-              "val": 0
+              "val": 9
             },
             "etr": ""
           },
@@ -198,7 +197,8 @@
           {
             "area_name": "SYDNEY",
             "cust_a": {
-              "val": 802
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -233,13 +233,13 @@
           {
             "area_name": "YARMOUTH",
             "cust_a": {
-              "val": 0
+              "val": 92
             },
             "etr": ""
           }
         ],
         "cust_a": {
-          "val": 805
+          "val": 104
         },
         "etr": ""
       }
