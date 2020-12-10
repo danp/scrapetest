@@ -2,24 +2,19 @@
   "file_data": [
     {
       "desc": {
-        "cause": "Planned Maintenance",
-        "cluster": false,
+        "cluster": true,
         "cust_a": {
-          "val": 801
+          "val": 802
         },
-        "etr": "2020-12-10T14:00:00-0400",
-        "start": "2020-12-10T09:19:10-0400"
+        "n_out": 2
       },
       "geom": {
-        "a": [
-          "shfyGbrtnJg_@jlAskArdB_|@xd@aI`D}bBe@yi@qb@pNeZvmC_}BjcD}^"
-        ],
         "p": [
-          "sikyG|ixnJ"
+          "m}|xGtmrnJ"
         ]
       },
-      "id": "4",
-      "title": "Outage Information"
+      "id": "6-1",
+      "title": "Area Outage"
     }
   ],
   "file_title": "030321"
