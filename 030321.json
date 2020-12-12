@@ -18,26 +18,7 @@
           "ugh{G|zmsJ"
         ]
       },
-      "id": "1",
-      "title": "Outage Information"
-    },
-    {
-      "desc": {
-        "cause": "Under Investigation",
-        "cluster": false,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
-        "etr": "2020-12-12T14:45:00-0400",
-        "start": "2020-12-12T09:11:00-0400"
-      },
-      "geom": {
-        "p": [
-          "ybrvG`hhuJ"
-        ]
-      },
-      "id": "3",
+      "id": "2",
       "title": "Outage Information"
     }
   ],
