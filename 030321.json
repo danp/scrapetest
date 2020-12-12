@@ -2,23 +2,21 @@
   "file_data": [
     {
       "desc": {
-        "cause": "Damage to Equipment",
+        "cause": "Under Investigation",
         "cluster": false,
         "cust_a": {
-          "val": 854
+          "masked": true,
+          "val": 4
         },
-        "etr": "2020-12-12T14:00:00-0400",
-        "start": "2020-12-12T10:06:42-0400"
+        "etr": "2020-12-12T21:30:00-0400",
+        "start": "2020-12-12T15:46:31-0400"
       },
       "geom": {
-        "a": [
-          "uc{zGtrvsJmAtEq|A_FgqNe`Bys@c_@{wEiiCOoFv_EyfEfyFsmD`tKnjOjOj}B"
-        ],
         "p": [
-          "ugh{G|zmsJ"
+          "ggfvGxzatJ"
         ]
       },
-      "id": "4",
+      "id": "1",
       "title": "Outage Information"
     }
   ],
