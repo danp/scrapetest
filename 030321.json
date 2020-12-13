@@ -2,20 +2,18 @@
   "file_data": [
     {
       "desc": {
-        "cause": "Trees on Line",
+        "cause": "Under Investigation",
         "cluster": false,
         "cust_a": {
-          "val": 1545
+          "masked": true,
+          "val": 4
         },
-        "etr": "2020-12-13T10:30:00-0400",
-        "start": "2020-12-13T05:58:42-0400"
+        "etr": "2020-12-13T13:45:00-0400",
+        "start": "2020-12-13T10:12:00-0400"
       },
       "geom": {
-        "a": [
-          "usruGxwyuJ_HbKk`EjoCiuGjtCy_w@~_TkaFu`Ebq@o{I~fSagN~f@gC|{i@gHzrJza@jG~DpG~V"
-        ],
         "p": [
-          "o``wGfldvJ"
+          "q_msGtdssJ"
         ]
       },
       "id": "1",
