@@ -5,17 +5,20 @@
         "cause": "Under Investigation",
         "cluster": false,
         "cust_a": {
-          "val": 8
+          "val": 1545
         },
-        "etr": "2020-12-12T22:00:00-0400",
-        "start": "2020-12-12T18:08:24-0400"
+        "etr": "2020-12-13T09:30:00-0400",
+        "start": "2020-12-13T05:58:42-0400"
       },
       "geom": {
+        "a": [
+          "usruGxwyuJ_HbKk`EjoCiuGjtCy_w@~_TkaFu`Ebq@o{I~fSagN~f@gC|{i@gHzrJza@jG~DpG~V"
+        ],
         "p": [
-          "qdmsG`essJ"
+          "o``wGfldvJ"
         ]
       },
-      "id": "2",
+      "id": "1",
       "title": "Outage Information"
     }
   ],
