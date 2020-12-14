@@ -2,6 +2,25 @@
   "file_data": [
     {
       "desc": {
+        "cause": "Vehicle Accident",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "",
+        "start": "2020-12-14T10:32:00-0400"
+      },
+      "geom": {
+        "p": [
+          "icpqGh}mfK"
+        ]
+      },
+      "id": "1",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
         "cause": "Under Investigation",
         "cluster": false,
         "cust_a": {
@@ -14,25 +33,6 @@
       "geom": {
         "p": [
           "qwfpGbex_K"
-        ]
-      },
-      "id": "1",
-      "title": "Outage Information"
-    },
-    {
-      "desc": {
-        "cause": "Vehicle Accident",
-        "cluster": false,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
-        "etr": "2020-12-14T13:00:00-0400",
-        "start": "2020-12-14T10:32:00-0400"
-      },
-      "geom": {
-        "p": [
-          "icpqGh}mfK"
         ]
       },
       "id": "2",
