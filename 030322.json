@@ -16,7 +16,7 @@
           "aj|qGphpbK"
         ]
       },
-      "id": "2",
+      "id": "3",
       "title": "Outage Information"
     },
     {
@@ -26,7 +26,7 @@
         "cust_a": {
           "val": 9
         },
-        "etr": "2020-12-14T10:30:00-0400",
+        "etr": "",
         "start": "2020-12-14T08:29:14-0400"
       },
       "geom": {
@@ -34,7 +34,7 @@
           "ke{mGbk|hK"
         ]
       },
-      "id": "6",
+      "id": "5",
       "title": "Outage Information"
     }
   ],
