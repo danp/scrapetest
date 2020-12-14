@@ -2,20 +2,17 @@
   "file_data": [
     {
       "desc": {
-        "cause": "Damage to Equipment",
+        "cause": "Planned Maintenance",
         "cluster": false,
         "cust_a": {
-          "val": 5
+          "val": 9
         },
-        "etr": "2020-12-14T09:30:00-0400",
-        "start": "2020-12-14T07:02:14-0400"
+        "etr": "2020-12-14T10:30:00-0400",
+        "start": "2020-12-14T08:29:14-0400"
       },
       "geom": {
-        "a": [
-          "}tdoGndhbKgVzU{@gFxKch@fKmE@|^"
-        ],
         "p": [
-          "s_eoGf_hbK"
+          "ke{mGbk|hK"
         ]
       },
       "id": "1",
