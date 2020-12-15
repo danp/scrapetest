@@ -2,6 +2,25 @@
   "file_data": [
     {
       "desc": {
+        "cause": "High Winds",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-12-15T22:00:00-0400",
+        "start": "2020-12-15T13:43:00-0400"
+      },
+      "geom": {
+        "p": [
+          "ubksGjcz~J"
+        ]
+      },
+      "id": "2",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
         "cause": "Patrolling Lines",
         "cluster": false,
         "cust_a": {
@@ -18,7 +37,7 @@
           "aquvGpcgyJ"
         ]
       },
-      "id": "2",
+      "id": "5",
       "title": "Outage Information"
     }
   ],
