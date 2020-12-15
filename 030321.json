@@ -14,8 +14,27 @@
           "i{`xGzoknJ"
         ]
       },
-      "id": "6-4",
+      "id": "6-5",
       "title": "Area Outage"
+    },
+    {
+      "desc": {
+        "cause": "High Winds",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-12-16T02:45:00-0400",
+        "start": "2020-12-15T18:44:00-0400"
+      },
+      "geom": {
+        "p": [
+          "ev`}Gt~}oJ"
+        ]
+      },
+      "id": "4",
+      "title": "Outage Information"
     }
   ],
   "file_title": "030321"
