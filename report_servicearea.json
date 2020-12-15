@@ -28,15 +28,15 @@
           {
             "area_name": "BARRINGTON",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           },
           {
             "area_name": "BRIDGETOWN",
             "cust_a": {
-              "val": 5
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -79,7 +79,7 @@
           {
             "area_name": "DARTMOUTH",
             "cust_a": {
-              "val": 34
+              "val": 35
             },
             "etr": ""
           },
@@ -129,7 +129,7 @@
           {
             "area_name": "LIVERPOOL",
             "cust_a": {
-              "val": 2035
+              "val": 2033
             },
             "etr": ""
           },
@@ -192,8 +192,7 @@
           {
             "area_name": "STELLARTON",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           },
@@ -243,7 +242,7 @@
           }
         ],
         "cust_a": {
-          "val": 3604
+          "val": 3600
         },
         "etr": ""
       }
