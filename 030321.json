@@ -7,15 +7,34 @@
           "masked": true,
           "val": 4
         },
-        "n_out": 3
+        "n_out": 2
       },
       "geom": {
         "p": [
-          "q__yG~|qmJ"
+          "qyayGzy{mJ"
         ]
       },
       "id": "6-1",
       "title": "Area Outage"
+    },
+    {
+      "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-12-15T01:30:00-0400",
+        "start": "2020-12-14T19:59:00-0400"
+      },
+      "geom": {
+        "p": [
+          "wts{G`njsJ"
+        ]
+      },
+      "id": "2",
+      "title": "Outage Information"
     }
   ],
   "file_title": "030321"
