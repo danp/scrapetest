@@ -78,7 +78,8 @@
           {
             "area_name": "DARTMOUTH",
             "cust_a": {
-              "val": 5583
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -92,7 +93,7 @@
           {
             "area_name": "GOSHEN",
             "cust_a": {
-              "val": 0
+              "val": 58
             },
             "etr": ""
           },
@@ -164,7 +165,7 @@
           {
             "area_name": "SACKVILLE",
             "cust_a": {
-              "val": 0
+              "val": 21
             },
             "etr": ""
           },
@@ -236,13 +237,13 @@
           {
             "area_name": "YARMOUTH",
             "cust_a": {
-              "val": 0
+              "val": 15
             },
             "etr": ""
           }
         ],
         "cust_a": {
-          "val": 5600
+          "val": 115
         },
         "etr": ""
       }
