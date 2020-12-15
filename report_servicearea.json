@@ -44,7 +44,7 @@
           {
             "area_name": "BRIDGEWATER",
             "cust_a": {
-              "val": 136
+              "val": 0
             },
             "etr": ""
           },
@@ -114,23 +114,21 @@
           {
             "area_name": "INGONISH",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           },
           {
             "area_name": "KINGSTON",
             "cust_a": {
-              "val": 2477
+              "val": 2478
             },
             "etr": ""
           },
           {
             "area_name": "LIVERPOOL",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 2035
             },
             "etr": ""
           },
@@ -144,7 +142,7 @@
           {
             "area_name": "PARRSBORO",
             "cust_a": {
-              "val": 68
+              "val": 504
             },
             "etr": ""
           },
@@ -242,7 +240,7 @@
           }
         ],
         "cust_a": {
-          "val": 2797
+          "val": 5130
         },
         "etr": ""
       }
