@@ -4,14 +4,13 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "masked": true,
-          "val": 4
+          "val": 6
         },
-        "n_out": 4
+        "n_out": 6
       },
       "geom": {
         "p": [
-          "kzgoGjexbK"
+          "a{goG|a|bK"
         ]
       },
       "id": "6-1",
@@ -21,17 +20,53 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 25
+          "masked": true,
+          "val": 4
         },
-        "n_out": 5
+        "n_out": 2
       },
       "geom": {
         "p": [
-          "y|poGz}viK"
+          "}myqGp{piK"
         ]
       },
       "id": "6-2",
       "title": "Area Outage"
+    },
+    {
+      "desc": {
+        "cluster": true,
+        "cust_a": {
+          "val": 23
+        },
+        "n_out": 3
+      },
+      "geom": {
+        "p": [
+          "a|`nGfxuiK"
+        ]
+      },
+      "id": "6-3",
+      "title": "Area Outage"
+    },
+    {
+      "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-12-15T17:30:00-0400",
+        "start": "2020-12-15T14:03:28-0400"
+      },
+      "geom": {
+        "p": [
+          "crwoGte~dK"
+        ]
+      },
+      "id": "6",
+      "title": "Outage Information"
     },
     {
       "desc": {
@@ -49,26 +84,7 @@
           "}`roGjconK"
         ]
       },
-      "id": "4",
-      "title": "Outage Information"
-    },
-    {
-      "desc": {
-        "cause": "Under Investigation",
-        "cluster": false,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
-        "etr": "2020-12-15T16:30:00-0400",
-        "start": "2020-12-15T12:41:41-0400"
-      },
-      "geom": {
-        "p": [
-          "ipcrGneohK"
-        ]
-      },
-      "id": "10",
+      "id": "12",
       "title": "Outage Information"
     }
   ],
