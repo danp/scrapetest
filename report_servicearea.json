@@ -113,8 +113,7 @@
           {
             "area_name": "INGONISH",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 2080
             },
             "etr": ""
           },
@@ -202,8 +201,7 @@
           {
             "area_name": "SYDNEY",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 5
             },
             "etr": ""
           },
@@ -244,7 +242,7 @@
           }
         ],
         "cust_a": {
-          "val": 810
+          "val": 2889
         },
         "etr": ""
       }
