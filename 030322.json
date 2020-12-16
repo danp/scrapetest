@@ -11,11 +11,30 @@
       },
       "geom": {
         "p": [
-          "}jcoGlnxcK"
+          "m}~pGbktlK"
         ]
       },
       "id": "6-2",
       "title": "Area Outage"
+    },
+    {
+      "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-12-16T15:15:00-0400",
+        "start": "2020-12-16T11:57:20-0400"
+      },
+      "geom": {
+        "p": [
+          "kj|oGpxdbK"
+        ]
+      },
+      "id": "7",
+      "title": "Outage Information"
     }
   ],
   "file_title": "030322"
