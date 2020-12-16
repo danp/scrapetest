@@ -142,8 +142,7 @@
           {
             "area_name": "PARRSBORO",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 504
             },
             "etr": ""
           },
@@ -157,7 +156,7 @@
           {
             "area_name": "RIVER BOURGEOIS",
             "cust_a": {
-              "val": 214
+              "val": 216
             },
             "etr": ""
           },
@@ -241,7 +240,7 @@
           }
         ],
         "cust_a": {
-          "val": 251
+          "val": 757
         },
         "etr": ""
       }
