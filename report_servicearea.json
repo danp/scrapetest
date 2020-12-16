@@ -21,7 +21,7 @@
           {
             "area_name": "BADDECK",
             "cust_a": {
-              "val": 18
+              "val": 86
             },
             "etr": ""
           },
@@ -146,7 +146,7 @@
           {
             "area_name": "PARRSBORO",
             "cust_a": {
-              "val": 159
+              "val": 115
             },
             "etr": ""
           },
@@ -160,7 +160,8 @@
           {
             "area_name": "RIVER BOURGEOIS",
             "cust_a": {
-              "val": 210
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -244,7 +245,7 @@
           }
         ],
         "cust_a": {
-          "val": 396
+          "val": 212
         },
         "etr": ""
       }
