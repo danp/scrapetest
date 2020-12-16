@@ -4,13 +4,13 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 21
+          "val": 22
         },
-        "n_out": 6
+        "n_out": 7
       },
       "geom": {
         "p": [
-          "qlrvGvfkqJ"
+          "mmqvGdwgqJ"
         ]
       },
       "id": "6-1",
@@ -32,27 +32,6 @@
       },
       "id": "6-2",
       "title": "Area Outage"
-    },
-    {
-      "desc": {
-        "cause": "Trees on Line",
-        "cluster": false,
-        "cust_a": {
-          "val": 2080
-        },
-        "etr": "2020-12-16T04:30:00-0400",
-        "start": "2020-12-16T00:31:00-0400"
-      },
-      "geom": {
-        "a": [
-          "u}p{Gfv{oJgbf@xfjAouf@w}r@Wa{CzpAwiQ~KqvAvIgKroa@crStx@yLddBlG`qSpvDr}G|dDdiBhiBpiA`yD|ZdwB"
-        ],
-        "p": [
-          "ety|GrvlpJ"
-        ]
-      },
-      "id": "8",
-      "title": "Outage Information"
     }
   ],
   "file_title": "030321"
