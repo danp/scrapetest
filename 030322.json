@@ -4,67 +4,32 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "masked": true,
-          "val": 4
+          "val": 541
         },
-        "n_out": 2
+        "n_out": 4
       },
       "geom": {
         "p": [
-          "gsqoGd~}bK"
+          "mjtpGbcrmK"
         ]
       },
-      "id": "6-4",
+      "id": "6-1",
       "title": "Area Outage"
     },
     {
       "desc": {
         "cluster": true,
         "cust_a": {
-          "masked": true,
-          "val": 4
+          "val": 787
         },
-        "n_out": 2
+        "n_out": 5
       },
       "geom": {
         "p": [
-          "_etmGphliK"
+          "_|ppGd~sbK"
         ]
       },
-      "id": "6-5",
-      "title": "Area Outage"
-    },
-    {
-      "desc": {
-        "cluster": true,
-        "cust_a": {
-          "val": 87
-        },
-        "n_out": 2
-      },
-      "geom": {
-        "p": [
-          "{t}iGfptqK"
-        ]
-      },
-      "id": "6-6",
-      "title": "Area Outage"
-    },
-    {
-      "desc": {
-        "cluster": true,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
-        "n_out": 2
-      },
-      "geom": {
-        "p": [
-          "qo~oGj_{nK"
-        ]
-      },
-      "id": "6-7",
+      "id": "6-2",
       "title": "Area Outage"
     },
     {
@@ -75,15 +40,34 @@
           "masked": true,
           "val": 4
         },
-        "etr": "2020-12-16T00:15:00-0400",
-        "start": "2020-12-15T12:58:00-0400"
+        "etr": "2020-12-16T04:30:00-0400",
+        "start": "2020-12-16T00:12:55-0400"
       },
       "geom": {
         "p": [
-          "imoqGpikkK"
+          "_d}nGpqogK"
         ]
       },
-      "id": "21",
+      "id": "1",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-12-16T02:45:00-0400",
+        "start": "2020-12-15T22:12:00-0400"
+      },
+      "geom": {
+        "p": [
+          "uanmGbzxjK"
+        ]
+      },
+      "id": "8",
       "title": "Outage Information"
     }
   ],
