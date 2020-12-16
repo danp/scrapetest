@@ -7,34 +7,15 @@
           "masked": true,
           "val": 4
         },
-        "n_out": 2
+        "n_out": 4
       },
       "geom": {
         "p": [
-          "{e`oGncydK"
+          "kxaoG|xhdK"
         ]
       },
-      "id": "6-2",
+      "id": "6-1",
       "title": "Area Outage"
-    },
-    {
-      "desc": {
-        "cause": "Vehicle Accident",
-        "cluster": false,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
-        "etr": "2020-12-16T09:00:00-0400",
-        "start": "2020-12-16T04:38:51-0400"
-      },
-      "geom": {
-        "p": [
-          "ueerGtrebK"
-        ]
-      },
-      "id": "6",
-      "title": "Outage Information"
     }
   ],
   "file_title": "030322"
