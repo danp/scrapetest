@@ -15,15 +15,14 @@
           {
             "area_name": "ANTIGONISH",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           },
           {
             "area_name": "BADDECK",
             "cust_a": {
-              "val": 190
+              "val": 204
             },
             "etr": ""
           },
@@ -148,8 +147,7 @@
           {
             "area_name": "PARRSBORO",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           },
@@ -248,7 +246,7 @@
           }
         ],
         "cust_a": {
-          "val": 1529
+          "val": 1539
         },
         "etr": ""
       }
