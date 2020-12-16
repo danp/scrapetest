@@ -21,7 +21,7 @@
           {
             "area_name": "BADDECK",
             "cust_a": {
-              "val": 86
+              "val": 0
             },
             "etr": ""
           },
@@ -146,7 +146,7 @@
           {
             "area_name": "PARRSBORO",
             "cust_a": {
-              "val": 115
+              "val": 114
             },
             "etr": ""
           },
@@ -245,7 +245,7 @@
           }
         ],
         "cust_a": {
-          "val": 212
+          "val": 125
         },
         "etr": ""
       }
