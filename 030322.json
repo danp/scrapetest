@@ -10,26 +10,10 @@
       },
       "geom": {
         "p": [
-          "euarGh|vbK"
+          "kjvpG`kmbK"
         ]
       },
       "id": "6-1",
-      "title": "Area Outage"
-    },
-    {
-      "desc": {
-        "cluster": true,
-        "cust_a": {
-          "val": 540
-        },
-        "n_out": 3
-      },
-      "geom": {
-        "p": [
-          "onwpGjp`mK"
-        ]
-      },
-      "id": "6-2",
       "title": "Area Outage"
     },
     {
@@ -40,15 +24,15 @@
           "masked": true,
           "val": 4
         },
-        "etr": "2020-12-16T04:30:00-0400",
-        "start": "2020-12-16T00:12:55-0400"
+        "etr": "2020-12-16T04:00:00-0400",
+        "start": "2020-12-16T00:12:37-0400"
       },
       "geom": {
         "p": [
-          "_d}nGpqogK"
+          "givqG|yflK"
         ]
       },
-      "id": "9",
+      "id": "1",
       "title": "Outage Information"
     },
     {
