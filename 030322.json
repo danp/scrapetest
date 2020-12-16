@@ -14,45 +14,8 @@
           "g`|oGf`z`K"
         ]
       },
-      "id": "6-2",
+      "id": "6-3",
       "title": "Area Outage"
-    },
-    {
-      "desc": {
-        "cause": "Under Investigation",
-        "cluster": false,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
-        "etr": "2020-12-16T20:15:00-0400",
-        "start": "2020-12-16T16:25:31-0400"
-      },
-      "geom": {
-        "p": [
-          "gjpjGpborK"
-        ]
-      },
-      "id": "3",
-      "title": "Outage Information"
-    },
-    {
-      "desc": {
-        "cause": "Under Investigation",
-        "cluster": false,
-        "cust_a": {
-          "val": 14
-        },
-        "etr": "2020-12-16T20:00:00-0400",
-        "start": "2020-12-16T16:51:57-0400"
-      },
-      "geom": {
-        "p": [
-          "u~_pG~|pcK"
-        ]
-      },
-      "id": "9",
-      "title": "Outage Information"
     }
   ],
   "file_title": "030322"
