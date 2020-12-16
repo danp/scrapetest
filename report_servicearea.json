@@ -157,7 +157,7 @@
           {
             "area_name": "RIVER BOURGEOIS",
             "cust_a": {
-              "val": 172
+              "val": 214
             },
             "etr": ""
           },
@@ -193,16 +193,14 @@
           {
             "area_name": "STELLARTON",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           },
           {
             "area_name": "SYDNEY",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 14
             },
             "etr": ""
           },
@@ -243,7 +241,7 @@
           }
         ],
         "cust_a": {
-          "val": 196
+          "val": 251
         },
         "etr": ""
       }
