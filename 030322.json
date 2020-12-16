@@ -4,14 +4,13 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "masked": true,
-          "val": 4
+          "val": 17
         },
-        "n_out": 2
+        "n_out": 15
       },
       "geom": {
         "p": [
-          "}olqGxxlkK"
+          "i}|qGraqbK"
         ]
       },
       "id": "6-2",
@@ -38,13 +37,14 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 19
+          "masked": true,
+          "val": 4
         },
-        "n_out": 3
+        "n_out": 2
       },
       "geom": {
         "p": [
-          "e~soGpcybK"
+          "}olqGxxlkK"
         ]
       },
       "id": "6-5",
