@@ -14,7 +14,8 @@
           {
             "area_name": "ANTIGONISH",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -113,7 +114,7 @@
           {
             "area_name": "INGONISH",
             "cust_a": {
-              "val": 0
+              "val": 21
             },
             "etr": ""
           },
@@ -155,7 +156,7 @@
           {
             "area_name": "RIVER BOURGEOIS",
             "cust_a": {
-              "val": 6
+              "val": 150
             },
             "etr": ""
           },
@@ -212,7 +213,7 @@
           {
             "area_name": "TRURO",
             "cust_a": {
-              "val": 1118
+              "val": 0
             },
             "etr": ""
           },
@@ -239,7 +240,7 @@
           }
         ],
         "cust_a": {
-          "val": 1177
+          "val": 225
         },
         "etr": ""
       }
