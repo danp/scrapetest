@@ -7,21 +7,23 @@
           {
             "area_name": "AMHERST",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
           {
             "area_name": "ANTIGONISH",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
           {
             "area_name": "BADDECK",
             "cust_a": {
-              "val": 5
+              "val": 189
             },
             "etr": ""
           },
@@ -218,7 +220,7 @@
           {
             "area_name": "TRURO",
             "cust_a": {
-              "val": 13
+              "val": 1118
             },
             "etr": ""
           },
@@ -245,7 +247,7 @@
           }
         ],
         "cust_a": {
-          "val": 279
+          "val": 1568
         },
         "etr": ""
       }
