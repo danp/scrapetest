@@ -21,7 +21,7 @@
           {
             "area_name": "BADDECK",
             "cust_a": {
-              "val": 17
+              "val": 19
             },
             "etr": ""
           },
@@ -107,8 +107,7 @@
           {
             "area_name": "HALIFAX",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           },
