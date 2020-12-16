@@ -35,7 +35,8 @@
           {
             "area_name": "BRIDGETOWN",
             "cust_a": {
-              "val": 819
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -79,7 +80,7 @@
           {
             "area_name": "DARTMOUTH",
             "cust_a": {
-              "val": 19
+              "val": 18
             },
             "etr": ""
           },
@@ -122,14 +123,16 @@
           {
             "area_name": "KINGSTON",
             "cust_a": {
-              "val": 7
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
           {
             "area_name": "LIVERPOOL",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -143,7 +146,7 @@
           {
             "area_name": "PARRSBORO",
             "cust_a": {
-              "val": 203
+              "val": 159
             },
             "etr": ""
           },
@@ -164,7 +167,7 @@
           {
             "area_name": "SACKVILLE",
             "cust_a": {
-              "val": 17
+              "val": 0
             },
             "etr": ""
           },
@@ -199,7 +202,8 @@
           {
             "area_name": "SYDNEY",
             "cust_a": {
-              "val": 5
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -240,7 +244,7 @@
           }
         ],
         "cust_a": {
-          "val": 1160
+          "val": 276
         },
         "etr": ""
       }
