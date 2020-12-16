@@ -2,20 +2,24 @@
   "file_data": [
     {
       "desc": {
-        "cluster": true,
+        "cause": "High Winds",
+        "cluster": false,
         "cust_a": {
-          "masked": true,
-          "val": 4
+          "val": 34
         },
-        "n_out": 2
+        "etr": "2020-12-16T11:45:00-0400",
+        "start": "2020-12-16T02:20:07-0400"
       },
       "geom": {
+        "a": [
+          "y~utG~xh{J{gFb~H_U~AwwF_rIfAyBxfHhCplEjO"
+        ],
         "p": [
-          "ix{tGjji{J"
+          "}x}tGz~k{J"
         ]
       },
-      "id": "6-1",
-      "title": "Area Outage"
+      "id": "1",
+      "title": "Outage Information"
     }
   ],
   "file_title": "030320"
