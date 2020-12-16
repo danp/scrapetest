@@ -49,8 +49,7 @@
           {
             "area_name": "CHESTER",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           },
@@ -142,7 +141,7 @@
           {
             "area_name": "PARRSBORO",
             "cust_a": {
-              "val": 171
+              "val": 115
             },
             "etr": ""
           },
@@ -156,7 +155,7 @@
           {
             "area_name": "RIVER BOURGEOIS",
             "cust_a": {
-              "val": 223
+              "val": 214
             },
             "etr": ""
           },
@@ -241,7 +240,7 @@
           }
         ],
         "cust_a": {
-          "val": 416
+          "val": 350
         },
         "etr": ""
       }
