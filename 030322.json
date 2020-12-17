@@ -4,13 +4,14 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 5
+          "masked": true,
+          "val": 4
         },
-        "n_out": 5
+        "n_out": 3
       },
       "geom": {
         "p": [
-          "umtpGdffeK"
+          "sw`pGxqggK"
         ]
       },
       "id": "6-1",
@@ -43,12 +44,12 @@
           "masked": true,
           "val": 4
         },
-        "etr": "2020-12-17T23:15:00-0400",
-        "start": "2020-12-17T18:43:12-0400"
+        "etr": "2020-12-17T22:15:00-0400",
+        "start": "2020-12-17T18:49:11-0400"
       },
       "geom": {
         "p": [
-          "}`ekGrn|qK"
+          "cwlpG|t}cK"
         ]
       },
       "id": "3",
@@ -62,15 +63,15 @@
           "masked": true,
           "val": 4
         },
-        "etr": "2020-12-17T21:00:00-0400",
-        "start": "2020-12-17T16:26:32-0400"
+        "etr": "2020-12-17T23:15:00-0400",
+        "start": "2020-12-17T18:43:12-0400"
       },
       "geom": {
         "p": [
-          "}h~mGdgelK"
+          "}`ekGrn|qK"
         ]
       },
-      "id": "10",
+      "id": "4",
       "title": "Outage Information"
     }
   ],
