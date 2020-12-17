@@ -2,6 +2,22 @@
   "file_data": [
     {
       "desc": {
+        "cluster": true,
+        "cust_a": {
+          "val": 6
+        },
+        "n_out": 2
+      },
+      "geom": {
+        "p": [
+          "y~_sGfa~fK"
+        ]
+      },
+      "id": "6-1",
+      "title": "Area Outage"
+    },
+    {
+      "desc": {
         "cause": "Under Investigation",
         "cluster": false,
         "cust_a": {
@@ -16,7 +32,7 @@
           "_mjtGzxibK"
         ]
       },
-      "id": "3",
+      "id": "4",
       "title": "Outage Information"
     }
   ],
