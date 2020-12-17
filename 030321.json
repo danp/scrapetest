@@ -4,13 +4,14 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 95
+          "masked": true,
+          "val": 4
         },
         "n_out": 2
       },
       "geom": {
         "p": [
-          "mz}xG|wzmJ"
+          "iloyGv_|tJ"
         ]
       },
       "id": "6-1",
@@ -18,21 +19,23 @@
     },
     {
       "desc": {
-        "cause": "Damage Causing Partial Power",
+        "cause": "Vehicle Accident",
         "cluster": false,
         "cust_a": {
-          "masked": true,
-          "val": 4
+          "val": 94
         },
-        "etr": "2020-12-17T16:15:00-0400",
-        "start": "2020-12-17T12:22:00-0400"
+        "etr": "2020-12-17T17:00:00-0400",
+        "start": "2020-12-16T22:53:00-0400"
       },
       "geom": {
+        "a": [
+          "}ssxGlcanJ_[kMAoEtDiC`DK|KhGjCfP"
+        ],
         "p": [
-          "yh~rG|_suJ"
+          "cbtxG|t`nJ"
         ]
       },
-      "id": "2",
+      "id": "4",
       "title": "Outage Information"
     }
   ],
