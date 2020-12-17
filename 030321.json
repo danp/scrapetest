@@ -4,17 +4,36 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 105
+          "val": 104
         },
-        "n_out": 3
+        "n_out": 2
       },
       "geom": {
         "p": [
-          "}`_yGx{zmJ"
+          "mz}xG|wzmJ"
         ]
       },
       "id": "6-1",
       "title": "Area Outage"
+    },
+    {
+      "desc": {
+        "cause": "Damage Causing Partial Power",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "2020-12-17T16:15:00-0400",
+        "start": "2020-12-17T12:22:00-0400"
+      },
+      "geom": {
+        "p": [
+          "yh~rG|_suJ"
+        ]
+      },
+      "id": "2",
+      "title": "Outage Information"
     },
     {
       "desc": {
@@ -32,7 +51,7 @@
           "op~xGrasuJ"
         ]
       },
-      "id": "5",
+      "id": "6",
       "title": "Outage Information"
     }
   ],
