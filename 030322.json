@@ -8,7 +8,7 @@
           "masked": true,
           "val": 4
         },
-        "etr": "2020-12-18T00:00:00-0400",
+        "etr": "2020-12-18T01:00:00-0400",
         "start": "2020-12-17T18:49:11-0400"
       },
       "geom": {
@@ -35,7 +35,7 @@
           "kxpnG`zgjK"
         ]
       },
-      "id": "2",
+      "id": "3",
       "title": "Outage Information"
     },
     {
@@ -54,7 +54,7 @@
           "}`ekGrn|qK"
         ]
       },
-      "id": "5",
+      "id": "4",
       "title": "Outage Information"
     }
   ],
