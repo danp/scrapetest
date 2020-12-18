@@ -2,25 +2,6 @@
   "file_data": [
     {
       "desc": {
-        "cause": "Under Investigation",
-        "cluster": false,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
-        "etr": "2020-12-18T02:45:00-0400",
-        "start": "2020-12-17T22:02:41-0400"
-      },
-      "geom": {
-        "p": [
-          "kxpnG`zgjK"
-        ]
-      },
-      "id": "1",
-      "title": "Outage Information"
-    },
-    {
-      "desc": {
         "cause": "Trees on Line",
         "cluster": false,
         "cust_a": {
@@ -35,7 +16,7 @@
           "}`ekGrn|qK"
         ]
       },
-      "id": "2",
+      "id": "1",
       "title": "Outage Information"
     }
   ],
