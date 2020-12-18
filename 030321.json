@@ -4,13 +4,13 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 43
+          "val": 7
         },
-        "n_out": 2
+        "n_out": 3
       },
       "geom": {
         "p": [
-          "sr`yGj`znJ"
+          "}{grGzpvwJ"
         ]
       },
       "id": "6-1",
@@ -18,21 +18,23 @@
     },
     {
       "desc": {
-        "cause": "Under Investigation",
+        "cause": "Vehicle Accident",
         "cluster": false,
         "cust_a": {
-          "masked": true,
-          "val": 4
+          "val": 42
         },
-        "etr": "2020-12-18T06:15:00-0400",
-        "start": "2020-12-18T02:26:38-0400"
+        "etr": "2020-12-18T08:15:00-0400",
+        "start": "2020-12-18T02:14:00-0400"
       },
       "geom": {
+        "a": [
+          "ar`yG`~ynJmGtOmDpIbI}RvBiF"
+        ],
         "p": [
-          "yairGxyvwJ"
+          "_y`yGtkznJ"
         ]
       },
-      "id": "1",
+      "id": "4",
       "title": "Outage Information"
     }
   ],
