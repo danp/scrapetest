@@ -2,39 +2,23 @@
   "file_data": [
     {
       "desc": {
-        "cluster": true,
-        "cust_a": {
-          "val": 7
-        },
-        "n_out": 3
-      },
-      "geom": {
-        "p": [
-          "}{grGzpvwJ"
-        ]
-      },
-      "id": "6-1",
-      "title": "Area Outage"
-    },
-    {
-      "desc": {
-        "cause": "Vehicle Accident",
+        "cause": "Under Investigation",
         "cluster": false,
         "cust_a": {
-          "val": 42
+          "val": 186
         },
-        "etr": "2020-12-18T08:15:00-0400",
-        "start": "2020-12-18T02:14:00-0400"
+        "etr": "2020-12-18T06:15:00-0400",
+        "start": "2020-12-18T02:26:38-0400"
       },
       "geom": {
         "a": [
-          "ar`yG`~ynJmGtOmDpIbI}RvBiF"
+          "{uerGr}qwJuL~_EyiAjbCghAuyGs@c|@~Dcb@`GqS|d@e{@bCrBfjBtbC"
         ],
         "p": [
-          "_y`yGtkznJ"
+          "{ghrGpitwJ"
         ]
       },
-      "id": "4",
+      "id": "1",
       "title": "Outage Information"
     }
   ],
