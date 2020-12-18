@@ -7,11 +7,11 @@
           "masked": true,
           "val": 4
         },
-        "n_out": 3
+        "n_out": 2
       },
       "geom": {
         "p": [
-          "sw`pGxqggK"
+          "{jgpG|oxgK"
         ]
       },
       "id": "6-1",
@@ -19,32 +19,13 @@
     },
     {
       "desc": {
-        "cause": "Damage to Equipment",
-        "cluster": false,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
-        "etr": "2020-12-17T21:00:00-0400",
-        "start": "2020-12-17T17:29:00-0400"
-      },
-      "geom": {
-        "p": [
-          "{{ohGbvvoK"
-        ]
-      },
-      "id": "2",
-      "title": "Outage Information"
-    },
-    {
-      "desc": {
         "cause": "Under Investigation",
         "cluster": false,
         "cust_a": {
           "masked": true,
           "val": 4
         },
-        "etr": "2020-12-17T22:15:00-0400",
+        "etr": "2020-12-17T23:45:00-0400",
         "start": "2020-12-17T18:49:11-0400"
       },
       "geom": {
@@ -52,18 +33,18 @@
           "cwlpG|t}cK"
         ]
       },
-      "id": "3",
+      "id": "4",
       "title": "Outage Information"
     },
     {
       "desc": {
-        "cause": "Under Investigation",
+        "cause": "Trees on Line",
         "cluster": false,
         "cust_a": {
           "masked": true,
           "val": 4
         },
-        "etr": "2020-12-17T23:15:00-0400",
+        "etr": "2020-12-18T13:15:00-0400",
         "start": "2020-12-17T18:43:12-0400"
       },
       "geom": {
@@ -71,7 +52,7 @@
           "}`ekGrn|qK"
         ]
       },
-      "id": "4",
+      "id": "5",
       "title": "Outage Information"
     }
   ],
