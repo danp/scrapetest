@@ -5,17 +5,18 @@
         "cause": "Under Investigation",
         "cluster": false,
         "cust_a": {
-          "val": 8
+          "masked": true,
+          "val": 4
         },
-        "etr": "2020-12-18T20:00:00-0400",
-        "start": "2020-12-18T10:01:10-0400"
+        "etr": "2020-12-19T01:00:00-0400",
+        "start": "2020-12-18T20:13:00-0400"
       },
       "geom": {
         "p": [
-          "smpoGnnwaK"
+          "}s_pG|~yiK"
         ]
       },
-      "id": "1",
+      "id": "2",
       "title": "Outage Information"
     }
   ],
