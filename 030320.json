@@ -2,18 +2,18 @@
   "file_data": [
     {
       "desc": {
-        "cause": "Planned Maintenance",
+        "cause": "Under Investigation",
         "cluster": false,
         "cust_a": {
           "masked": true,
           "val": 4
         },
-        "etr": "2020-12-19T16:00:00-0400",
-        "start": "2020-12-19T07:34:22-0400"
+        "etr": "2020-12-19T19:45:00-0400",
+        "start": "2020-12-19T15:54:01-0400"
       },
       "geom": {
         "p": [
-          "igtuGfnr~J"
+          "ykjuGbvd}J"
         ]
       },
       "id": "1",
