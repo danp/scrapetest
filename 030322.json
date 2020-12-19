@@ -21,24 +21,6 @@
     },
     {
       "desc": {
-        "cause": "Damage to Equipment",
-        "cluster": false,
-        "cust_a": {
-          "val": 12
-        },
-        "etr": "2020-12-19T16:30:00-0400",
-        "start": "2020-12-19T14:30:09-0400"
-      },
-      "geom": {
-        "p": [
-          "ubcoGh}lcK"
-        ]
-      },
-      "id": "2",
-      "title": "Outage Information"
-    },
-    {
-      "desc": {
         "cause": "Under Investigation",
         "cluster": false,
         "cust_a": {
@@ -53,7 +35,7 @@
           "mfgpGt}c`K"
         ]
       },
-      "id": "3",
+      "id": "2",
       "title": "Outage Information"
     }
   ],
