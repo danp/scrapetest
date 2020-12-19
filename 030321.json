@@ -5,17 +5,18 @@
         "cause": "High Winds",
         "cluster": false,
         "cust_a": {
-          "val": 14
+          "masked": true,
+          "val": 4
         },
-        "etr": "2020-12-18T20:15:00-0400",
-        "start": "2020-12-18T14:06:52-0400"
+        "etr": "2020-12-19T03:45:00-0400",
+        "start": "2020-12-18T21:40:32-0400"
       },
       "geom": {
         "p": [
-          "qtqxGdggnJ"
+          "ebgyG~qpnJ"
         ]
       },
-      "id": "1",
+      "id": "2",
       "title": "Outage Information"
     }
   ],
