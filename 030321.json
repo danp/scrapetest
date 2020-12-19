@@ -2,21 +2,23 @@
   "file_data": [
     {
       "desc": {
-        "cause": "Under Investigation",
+        "cause": "Damage to Transmission Equipment",
         "cluster": false,
         "cust_a": {
-          "masked": true,
-          "val": 4
+          "val": 2853
         },
-        "etr": "2020-12-19T17:30:00-0400",
-        "start": "2020-12-19T14:00:00-0400"
+        "etr": "2020-12-19T21:15:00-0400",
+        "start": "2020-12-19T18:25:04-0400"
       },
       "geom": {
+        "a": [
+          "umtxGhqhnJ{a@x}@c}@~~@kxG`n@imEelFqk@u}A{Jws@pBm`@f|FybCltC~d@nBrAjmE|rF~WlzA"
+        ],
         "p": [
-          "{sfrGfbxwJ"
+          "km~xG`penJ"
         ]
       },
-      "id": "2",
+      "id": "1",
       "title": "Outage Information"
     }
   ],
