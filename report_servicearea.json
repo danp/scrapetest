@@ -182,7 +182,7 @@
           {
             "area_name": "ST. MARGARET'S BAY",
             "cust_a": {
-              "val": 0
+              "val": 8
             },
             "etr": ""
           },
@@ -196,7 +196,7 @@
           {
             "area_name": "SYDNEY",
             "cust_a": {
-              "val": 2854
+              "val": 2853
             },
             "etr": ""
           },
@@ -238,7 +238,7 @@
           }
         ],
         "cust_a": {
-          "val": 2856
+          "val": 2862
         },
         "etr": ""
       }

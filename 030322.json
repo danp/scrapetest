@@ -5,14 +5,14 @@
         "cause": "Under Investigation",
         "cluster": false,
         "cust_a": {
-          "val": 6
+          "val": 8
         },
-        "etr": "2020-12-19T19:45:00-0400",
-        "start": "2020-12-19T16:28:00-0400"
+        "etr": "2020-12-19T23:30:00-0400",
+        "start": "2020-12-19T19:09:56-0400"
       },
       "geom": {
         "p": [
-          "ws~nGpa`dK"
+          "{ynoGbmseK"
         ]
       },
       "id": "1",
