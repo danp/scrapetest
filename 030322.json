@@ -14,7 +14,7 @@
           "iyhjGd|rrK"
         ]
       },
-      "id": "6-1",
+      "id": "6-2",
       "title": "Area Outage"
     },
     {
@@ -24,14 +24,14 @@
           "masked": true,
           "val": 4
         },
-        "n_out": 3
+        "n_out": 2
       },
       "geom": {
         "p": [
-          "ohzpGn~heK"
+          "whopGpy_eK"
         ]
       },
-      "id": "6-2",
+      "id": "6-3",
       "title": "Area Outage"
     }
   ],
