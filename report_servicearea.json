@@ -105,7 +105,8 @@
           {
             "area_name": "HALIFAX",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -126,7 +127,8 @@
           {
             "area_name": "LIVERPOOL",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -154,7 +156,8 @@
           {
             "area_name": "RIVER BOURGEOIS",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -189,7 +192,8 @@
           {
             "area_name": "STELLARTON",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -232,13 +236,14 @@
           {
             "area_name": "YARMOUTH",
             "cust_a": {
-              "val": 295
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           }
         ],
         "cust_a": {
-          "val": 296
+          "val": 8
         },
         "etr": ""
       }
