@@ -5,8 +5,7 @@
         "cause": "Under Investigation",
         "cluster": false,
         "cust_a": {
-          "masked": true,
-          "val": 4
+          "val": 69
         },
         "etr": "2020-12-23T15:45:00-0400",
         "start": "2020-12-23T11:52:00-0400"
@@ -19,7 +18,7 @@
           "eaxmGphwhK"
         ]
       },
-      "id": "1",
+      "id": "2",
       "title": "Outage Information"
     }
   ],
