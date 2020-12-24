@@ -5,6 +5,24 @@
         "cause": "Under Investigation",
         "cluster": false,
         "cust_a": {
+          "val": 5
+        },
+        "etr": "2020-12-24T00:30:00-0400",
+        "start": "2020-12-23T19:59:00-0400"
+      },
+      "geom": {
+        "p": [
+          "__mpGlcdoK"
+        ]
+      },
+      "id": "1",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
           "masked": true,
           "val": 4
         },
@@ -16,7 +34,7 @@
           "{sqoGn|ieK"
         ]
       },
-      "id": "1",
+      "id": "2",
       "title": "Outage Information"
     }
   ],
