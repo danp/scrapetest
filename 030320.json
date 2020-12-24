@@ -4,8 +4,7 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "masked": true,
-          "val": 4
+          "val": 26
         },
         "n_out": 2
       },
