@@ -2,23 +2,6 @@
   "file_data": [
     {
       "desc": {
-        "cluster": true,
-        "cust_a": {
-          "masked": true,
-          "val": 4
-        },
-        "n_out": 2
-      },
-      "geom": {
-        "p": [
-          "ej_rG|y|jK"
-        ]
-      },
-      "id": "6-1",
-      "title": "Area Outage"
-    },
-    {
-      "desc": {
         "cause": "Damage to Equipment",
         "cluster": false,
         "cust_a": {
@@ -33,7 +16,7 @@
           "en_pGtseaK"
         ]
       },
-      "id": "10",
+      "id": "8",
       "title": "Outage Information"
     }
   ],
