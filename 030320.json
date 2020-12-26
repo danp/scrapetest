@@ -4,13 +4,13 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 34
+          "val": 36
         },
-        "n_out": 2
+        "n_out": 4
       },
       "geom": {
         "p": [
-          "aa_vGtd}xJ"
+          "s}}uGtd_yJ"
         ]
       },
       "id": "6-1",
@@ -31,7 +31,7 @@
           "ccuvGxf|fK"
         ]
       },
-      "id": "4",
+      "id": "5",
       "title": "Outage Information"
     }
   ],
