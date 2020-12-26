@@ -2,21 +2,37 @@
   "file_data": [
     {
       "desc": {
-        "cause": "Damage to Equipment",
+        "cluster": true,
+        "cust_a": {
+          "val": 156
+        },
+        "n_out": 2
+      },
+      "geom": {
+        "p": [
+          "cuxoGtakbK"
+        ]
+      },
+      "id": "6-2",
+      "title": "Area Outage"
+    },
+    {
+      "desc": {
+        "cause": "High Winds",
         "cluster": false,
         "cust_a": {
           "masked": true,
           "val": 4
         },
-        "etr": "",
-        "start": "2020-12-25T11:28:48-0400"
+        "etr": "2020-12-26T04:30:00-0400",
+        "start": "2020-12-25T20:23:00-0400"
       },
       "geom": {
         "p": [
-          "en_pGtseaK"
+          "qz`kGlvwjK"
         ]
       },
-      "id": "3",
+      "id": "5",
       "title": "Outage Information"
     }
   ],
