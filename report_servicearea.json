@@ -77,7 +77,8 @@
           {
             "area_name": "DARTMOUTH",
             "cust_a": {
-              "val": 14
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -105,7 +106,8 @@
           {
             "area_name": "HALIFAX",
             "cust_a": {
-              "val": 186
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -163,7 +165,8 @@
           {
             "area_name": "SACKVILLE",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -184,7 +187,8 @@
           {
             "area_name": "ST. MARGARET'S BAY",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -212,7 +216,7 @@
           {
             "area_name": "TRURO",
             "cust_a": {
-              "val": 429
+              "val": 430
             },
             "etr": ""
           },
@@ -226,22 +230,20 @@
           {
             "area_name": "WINDSOR",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           },
           {
             "area_name": "YARMOUTH",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           }
         ],
         "cust_a": {
-          "val": 3741
+          "val": 3547
         },
         "etr": ""
       }
