@@ -77,8 +77,7 @@
           {
             "area_name": "DARTMOUTH",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 14
             },
             "etr": ""
           },
@@ -213,14 +212,14 @@
           {
             "area_name": "TRURO",
             "cust_a": {
-              "val": 33
+              "val": 429
             },
             "etr": ""
           },
           {
             "area_name": "UPPER MUSQUODOBOIT",
             "cust_a": {
-              "val": 0
+              "val": 3107
             },
             "etr": ""
           },
@@ -242,7 +241,7 @@
           }
         ],
         "cust_a": {
-          "val": 226
+          "val": 3741
         },
         "etr": ""
       }
