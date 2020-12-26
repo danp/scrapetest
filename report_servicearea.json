@@ -85,7 +85,7 @@
           {
             "area_name": "DIGBY",
             "cust_a": {
-              "val": 1299
+              "val": 0
             },
             "etr": ""
           },
@@ -191,7 +191,7 @@
           {
             "area_name": "STELLARTON",
             "cust_a": {
-              "val": 31
+              "val": 45
             },
             "etr": ""
           },
@@ -226,7 +226,8 @@
           {
             "area_name": "WINDSOR",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -240,7 +241,7 @@
           }
         ],
         "cust_a": {
-          "val": 8577
+          "val": 7293
         },
         "etr": ""
       }
