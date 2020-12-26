@@ -70,7 +70,8 @@
           {
             "area_name": "COLDBROOK",
             "cust_a": {
-              "val": 0
+              "masked": true,
+              "val": 4
             },
             "etr": ""
           },
@@ -191,7 +192,7 @@
           {
             "area_name": "STELLARTON",
             "cust_a": {
-              "val": 45
+              "val": 76
             },
             "etr": ""
           },
@@ -240,7 +241,7 @@
           }
         ],
         "cust_a": {
-          "val": 7299
+          "val": 7331
         },
         "etr": ""
       }
