@@ -4,13 +4,14 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 35
+          "masked": true,
+          "val": 4
         },
-        "n_out": 3
+        "n_out": 2
       },
       "geom": {
         "p": [
-          "ybavGls~xJ"
+          "y`gvGdu_yJ"
         ]
       },
       "id": "6-2",
