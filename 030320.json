@@ -13,23 +13,23 @@
           "a{qvGrtvfK"
         ]
       },
-      "id": "6-1",
+      "id": "6-3",
       "title": "Area Outage"
     },
     {
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 7
+          "val": 6
         },
-        "n_out": 5
+        "n_out": 4
       },
       "geom": {
         "p": [
-          "c}huGxhq|J"
+          "gtfuGbzo|J"
         ]
       },
-      "id": "6-3",
+      "id": "6-4",
       "title": "Area Outage"
     }
   ],
