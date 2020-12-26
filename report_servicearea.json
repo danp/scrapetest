@@ -164,8 +164,7 @@
           {
             "area_name": "SACKVILLE",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 0
             },
             "etr": ""
           },
@@ -194,8 +193,7 @@
           {
             "area_name": "STELLARTON",
             "cust_a": {
-              "masked": true,
-              "val": 4
+              "val": 5
             },
             "etr": ""
           },
@@ -216,14 +214,14 @@
           {
             "area_name": "TRURO",
             "cust_a": {
-              "val": 430
+              "val": 7
             },
             "etr": ""
           },
           {
             "area_name": "UPPER MUSQUODOBOIT",
             "cust_a": {
-              "val": 3107
+              "val": 3106
             },
             "etr": ""
           },
@@ -243,7 +241,7 @@
           }
         ],
         "cust_a": {
-          "val": 3547
+          "val": 3125
         },
         "etr": ""
       }
