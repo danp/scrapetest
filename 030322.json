@@ -2,22 +2,6 @@
   "file_data": [
     {
       "desc": {
-        "cluster": true,
-        "cust_a": {
-          "val": 6
-        },
-        "n_out": 2
-      },
-      "geom": {
-        "p": [
-          "aazpGfzaaK"
-        ]
-      },
-      "id": "6-1",
-      "title": "Area Outage"
-    },
-    {
-      "desc": {
         "cause": "Under Investigation",
         "cluster": false,
         "cust_a": {
@@ -34,7 +18,26 @@
           "u_cnGtl`rK"
         ]
       },
-      "id": "2",
+      "id": "3",
+      "title": "Outage Information"
+    },
+    {
+      "desc": {
+        "cause": "Damage to Equipment",
+        "cluster": false,
+        "cust_a": {
+          "masked": true,
+          "val": 4
+        },
+        "etr": "",
+        "start": "2020-12-25T11:28:48-0400"
+      },
+      "geom": {
+        "p": [
+          "en_pGtseaK"
+        ]
+      },
+      "id": "5",
       "title": "Outage Information"
     }
   ],
