@@ -4,17 +4,38 @@
       "desc": {
         "cluster": true,
         "cust_a": {
-          "val": 8
+          "val": 6
         },
-        "n_out": 3
+        "n_out": 2
       },
       "geom": {
         "p": [
-          "_dspG~a{`K"
+          "aazpGfzaaK"
         ]
       },
       "id": "6-1",
       "title": "Area Outage"
+    },
+    {
+      "desc": {
+        "cause": "Under Investigation",
+        "cluster": false,
+        "cust_a": {
+          "val": 55
+        },
+        "etr": "2020-12-27T14:45:00-0400",
+        "start": "2020-12-27T10:13:00-0400"
+      },
+      "geom": {
+        "a": [
+          "en`nG~nbrKqp@qIoxBe{AoG}FaLs^nzDtpAbDr{@"
+        ],
+        "p": [
+          "u_cnGtl`rK"
+        ]
+      },
+      "id": "1",
+      "title": "Outage Information"
     }
   ],
   "file_title": "030322"
